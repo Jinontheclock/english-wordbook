@@ -14770,32 +14770,38 @@
         {
           "number": 1,
           "text": "Just wait. I want to ____ my jacket before we go.",
-          "answer": "grab"
+          "answer": "grab",
+          "hint": "Use a casual verb meaning to take something quickly."
         },
         {
           "number": 2,
           "text": "Cindy and I were ____ until quite recently.",
-          "answer": "co-workers"
+          "answer": "co-workers",
+          "hint": "Think of people who work at the same company."
         },
         {
           "number": 3,
           "text": "Which ____ are you thinking about moving to?",
-          "answer": "neighborhood"
+          "answer": "neighborhood",
+          "hint": "Name the area around someone's home."
         },
         {
           "number": 4,
           "text": "I met Tony ____. We played soccer together.",
-          "answer": "years ago"
+          "answer": "years ago",
+          "hint": "Use an expression for a time far in the past."
         },
         {
           "number": 5,
           "text": "You should move ____ to me! I would be so happy.",
-          "answer": "next door"
+          "answer": "next door",
+          "hint": "Think of the home immediately beside another home."
         },
         {
           "number": 6,
           "text": "I've heard bad things about that ____. Be careful.",
-          "answer": "construction company"
+          "answer": "construction company",
+          "hint": "Name a business that builds houses and other buildings."
         }
       ]
     },
@@ -14814,17 +14820,20 @@
         {
           "number": 1,
           "text": "What is happening on Friday afternoon?",
-          "answer": "There will be a big snowstorm."
+          "answer": "There will be a big snowstorm.",
+          "hint": "Think about the severe winter weather in the forecast."
         },
         {
           "number": 2,
           "text": "Is Eddy going to work on Friday?",
-          "answer": "He might take the day off on Friday."
+          "answer": "He might take the day off on Friday.",
+          "hint": "Look for Eddy's possible plan for his workday."
         },
         {
           "number": 3,
           "text": "How did Tina get ready for the storm?",
-          "answer": "She bought extra food and water."
+          "answer": "She bought extra food and water.",
+          "hint": "Recall what Tina bought to prepare for bad weather."
         }
       ]
     },
@@ -14843,47 +14852,56 @@
         {
           "number": 1,
           "text": "Let me know if you need ____. I have a truck.",
-          "answer": "help moving"
+          "answer": "help moving",
+          "hint": "Think of assistance with transporting your belongings to a new home."
         },
         {
           "number": 2,
           "text": "I'm planning on going to the hockey game ____.",
-          "answer": "this weekend"
+          "answer": "this weekend",
+          "hint": "Use the expression for the coming Saturday and Sunday."
         },
         {
           "number": 3,
           "text": "It's very difficult to buy a house in ____ as they're very expensive.",
-          "answer": "this town"
+          "answer": "this town",
+          "hint": "Refer to the local place where the speaker lives."
         },
         {
           "number": 4,
           "text": "I can't believe that I can finally have ____. I've had roommates for years.",
-          "answer": "a place of my own"
+          "answer": "a place of my own",
+          "hint": "Think of a home you do not have to share with roommates."
         },
         {
           "number": 5,
           "text": "____. That's amazing news.",
-          "answer": "no kidding"
+          "answer": "no kidding",
+          "hint": "Use an informal reaction to surprising news."
         },
         {
           "number": 6,
           "text": "Let's ____ next weekend maybe.",
-          "answer": "throw a housewarming party"
+          "answer": "throw a housewarming party",
+          "hint": "Think of celebrating a move by inviting people to your new home."
         },
         {
           "number": 7,
           "text": "The ____ will need to be at least 10% of the listing price.",
-          "answer": "down payment"
+          "answer": "down payment",
+          "hint": "Name the initial payment made when buying a house."
         },
         {
           "number": 8,
           "text": "Oh, you're going ____? What areas are you looking at?",
-          "answer": "house hunting"
+          "answer": "house hunting",
+          "hint": "Use the expression for looking for a home to buy."
         },
         {
           "number": 9,
           "text": "I plan to ____ in 10 years.",
-          "answer": "pay off my mortgage"
+          "answer": "pay off my mortgage",
+          "hint": "Think of completely repaying the loan on your home."
         }
       ]
     },
@@ -14902,37 +14920,44 @@
         {
           "number": 1,
           "text": "It's not far. Just walk ____ and look to your right.",
-          "answer": "one block"
+          "answer": "one block",
+          "hint": "Give a short walking distance between two street corners."
         },
         {
           "number": 2,
           "text": "I'm going to ____ a ham for Easter dinner.",
-          "answer": "roast"
+          "answer": "roast",
+          "hint": "Use the cooking verb for preparing meat with dry heat in an oven."
         },
         {
           "number": 3,
           "text": "I prefer Arabica ____ to other kinds.",
-          "answer": "coffee beans"
+          "answer": "coffee beans",
+          "hint": "Name the small seeds used to make this drink."
         },
         {
           "number": 4,
           "text": "Can we ____ that agreement without any penalties?",
-          "answer": "exit"
+          "answer": "exit",
+          "hint": "Use a verb meaning to leave or get out of an agreement."
         },
         {
           "number": 5,
           "text": "I'm not arguing. I know that you're ____.",
-          "answer": "100% right"
+          "answer": "100% right",
+          "hint": "Use a percentage to say someone is completely correct."
         },
         {
           "number": 6,
           "text": "If you ____ your own beans before you make coffee, the results are much better.",
-          "answer": "grind"
+          "answer": "grind",
+          "hint": "Use the verb for crushing beans into small particles."
         },
         {
           "number": 7,
           "text": "We're going to be late. Let's ____ right now.",
-          "answer": "head over there"
+          "answer": "head over there",
+          "hint": "Think of an informal expression meaning to go to that place."
         }
       ]
     },
@@ -14951,37 +14976,44 @@
         {
           "number": 1,
           "text": "I think you should ____ with Tony. He's not a good guy!",
-          "answer": "break up"
+          "answer": "break up",
+          "hint": "Use the expression for ending a romantic relationship."
         },
         {
           "number": 2,
           "text": "Jay is ____ because I made him clean his room.",
-          "answer": "pissed off"
+          "answer": "pissed off",
+          "hint": "Use an informal expression meaning very angry or annoyed."
         },
         {
           "number": 3,
           "text": "I have to not ____ asking women out. I just get so nervous.",
-          "answer": "talk myself out of"
+          "answer": "talk myself out of",
+          "hint": "Think of persuading yourself not to do something."
         },
         {
           "number": 4,
           "text": "Sid and Jen are ____ together a lot these days. Maybe they'll start dating?",
-          "answer": "hanging around"
+          "answer": "hanging around",
+          "hint": "Use the -ing form of an expression meaning spending time together casually."
         },
         {
           "number": 5,
           "text": "I'm not sure I can ____ the tattoo. It seems so painful.",
-          "answer": "go through with"
+          "answer": "go through with",
+          "hint": "Think of carrying out a plan despite doubts or fear."
         },
         {
           "number": 6,
           "text": "We need to ____ a bit. Maybe we need to fire one of the low-performers?",
-          "answer": "shake things up"
+          "answer": "shake things up",
+          "hint": "Use the expression for making major changes to improve a situation."
         },
         {
           "number": 7,
           "text": "I'm not sure you should ____ so easily. He needs some punishment for what he did. You don't always need to be the good guy.",
-          "answer": "let him off"
+          "answer": "let him off",
+          "hint": "Think of allowing a man to avoid punishment."
         }
       ]
     },
@@ -15000,42 +15032,50 @@
         {
           "number": 1,
           "text": "Are you busy ____? Let's go on a bike ride.",
-          "answer": "tonight"
+          "answer": "tonight",
+          "hint": "Refer to the evening of the current day."
         },
         {
           "number": 2,
           "text": "____, I've been doing way better.",
-          "answer": "since then"
+          "answer": "since then",
+          "hint": "Think of an expression linking a past event to the period following it."
         },
         {
           "number": 3,
           "text": "I'm going to Japan the ____.",
-          "answer": "day after tomorrow"
+          "answer": "day after tomorrow",
+          "hint": "Refer to the date two days from today. The sentence already includes 'the'."
         },
         {
           "number": 4,
           "text": "I always ____ for the people that are important in my life.",
-          "answer": "make time"
+          "answer": "make time",
+          "hint": "Think of deliberately setting aside part of your schedule for someone."
         },
         {
           "number": 5,
           "text": "I graduated from high school ____.",
-          "answer": "5 years ago"
+          "answer": "5 years ago",
+          "hint": "Give a point in the past exactly half a decade earlier."
         },
         {
           "number": 6,
           "text": "____ is what summer vacation is all about!",
-          "answer": "wasting time"
+          "answer": "wasting time",
+          "hint": "Use an -ing expression for spending hours without doing anything useful."
         },
         {
           "number": 7,
           "text": "____, I'd love to finally read those books that have been sitting on my nightstand for months!",
-          "answer": "this summer vacation"
+          "answer": "this summer vacation",
+          "hint": "Refer to the school break during the coming warm season."
         },
         {
           "number": 8,
           "text": "I try to spend ____ outside. It's great for mental health.",
-          "answer": "as much time as possible"
+          "answer": "as much time as possible",
+          "hint": "Think of the largest amount of available free hours."
         }
       ]
     },
@@ -15054,32 +15094,38 @@
         {
           "number": 1,
           "text": "How many ____ should we order for 6 people?",
-          "answer": "dishes"
+          "answer": "dishes",
+          "hint": "Name the individual food items ordered at a restaurant."
         },
         {
           "number": 2,
           "text": "I got into a ____ last week.",
-          "answer": "car accident"
+          "answer": "car accident",
+          "hint": "Think of a collision involving a vehicle."
         },
         {
           "number": 3,
           "text": "Should we ____ the bill?",
-          "answer": "split"
+          "answer": "split",
+          "hint": "Use a verb meaning to divide a cost between people."
         },
         {
           "number": 4,
           "text": "Let's leave early. There's always a ____ at this time.",
-          "answer": "traffic jam"
+          "answer": "traffic jam",
+          "hint": "Name the situation when many vehicles cannot move freely."
         },
         {
           "number": 5,
           "text": "Can I see the ____, please?",
-          "answer": "menu"
+          "answer": "menu",
+          "hint": "Name the restaurant's list of food and prices."
         },
         {
           "number": 6,
           "text": "Facebook is my favourite ____.",
-          "answer": "social media"
+          "answer": "social media",
+          "hint": "Name the category of online services used for sharing posts and connecting with people."
         }
       ]
     },
@@ -15098,17 +15144,20 @@
         {
           "number": 1,
           "text": "Why did Kerry stay home on the weekend?",
-          "answer": "He stayed home because his son was sick."
+          "answer": "He stayed home because his son was sick.",
+          "hint": "Recall the family member whose illness kept Kerry indoors."
         },
         {
           "number": 2,
           "text": "Is Kerry's son still sick?",
-          "answer": "No, he's okay now."
+          "answer": "No, he's okay now.",
+          "hint": "Compare the son's condition over the weekend with his condition now."
         },
         {
           "number": 3,
           "text": "Did Andrew go outside on the weekend?",
-          "answer": "Yes, he went for a bike ride, played soccer and had some beers on a patio."
+          "answer": "Yes, he went for a bike ride, played soccer and had some beers on a patio.",
+          "hint": "Recall Andrew's outdoor activities and where he had drinks."
         }
       ]
     },
@@ -15127,17 +15176,20 @@
         {
           "number": 1,
           "text": "When are they going to Ed's house?",
-          "answer": "They are going tonight at 6:30."
+          "answer": "They are going tonight at 6:30.",
+          "hint": "Find the planned day and exact arrival time."
         },
         {
           "number": 2,
           "text": "What will they bring?",
-          "answer": "They'll bring some wine."
+          "answer": "They'll bring some wine.",
+          "hint": "Recall the drink they plan to take as a gift."
         },
         {
           "number": 3,
           "text": "Where are they going before Ed's house?",
-          "answer": "They are going to the liquor store."
+          "answer": "They are going to the liquor store.",
+          "hint": "Name the shop they will visit to buy their gift."
         }
       ]
     },
@@ -15156,27 +15208,32 @@
         {
           "number": 1,
           "text": "What's your ____?",
-          "answer": "final destination"
+          "answer": "final destination",
+          "hint": "Think of the last place you intend to reach on a journey."
         },
         {
           "number": 2,
           "text": "There are ____ Korean restaurants around here but I think Insadong is the best one.",
-          "answer": "a few"
+          "answer": "a few",
+          "hint": "Use an expression meaning a small number of something."
         },
         {
           "number": 3,
           "text": "Walk four ____ and you'll see it on your left. You can't miss it.",
-          "answer": "blocks"
+          "answer": "blocks",
+          "hint": "Name the street sections between intersections, in the plural."
         },
         {
           "number": 4,
           "text": "You can ____ to the airport across the street from here.",
-          "answer": "catch the bus"
+          "answer": "catch the bus",
+          "hint": "Think of using public road transport to reach the airport."
         },
         {
           "number": 5,
           "text": "I hate going to ____ Vancouver on weekdays. Traffic is so bad.",
-          "answer": "downtown"
+          "answer": "downtown",
+          "hint": "Name the central business area of a city."
         }
       ]
     },
@@ -15195,17 +15252,20 @@
         {
           "number": 1,
           "text": "Is the new iPhone expensive?",
-          "answer": "Yes, it's very expensive."
+          "answer": "Yes, it's very expensive.",
+          "hint": "Think about whether the price is high or low."
         },
         {
           "number": 2,
           "text": "Is the new phone popular?",
-          "answer": "Yes, it is. There's a waiting list to get it."
+          "answer": "Yes, it is. There's a waiting list to get it.",
+          "hint": "Look for evidence that many people want to buy the phone."
         },
         {
           "number": 3,
           "text": "Is Jen going to get the new iPhone?",
-          "answer": "She's considering it, but it's a bit expensive for her."
+          "answer": "She's considering it, but it's a bit expensive for her.",
+          "hint": "Recall both Jen's interest in buying it and her concern about its price."
         }
       ]
     },
@@ -15224,32 +15284,38 @@
         {
           "number": 1,
           "text": "Hey Ted! What's up? Oh, ____.",
-          "answer": "same old, same old"
+          "answer": "same old, same old",
+          "hint": "Use a repeated informal expression meaning nothing has changed."
         },
         {
           "number": 2,
           "text": "Judy! ____. Why haven't you been at soccer lately?",
-          "answer": "long time, no see"
+          "answer": "long time, no see",
+          "hint": "Use a greeting for someone you have not seen for an extended period."
         },
         {
           "number": 3,
           "text": "Things are so different this ____ because of Covid-19.",
-          "answer": "holiday season"
+          "answer": "holiday season",
+          "hint": "Name the festive period around Christmas and New Year."
         },
         {
           "number": 4,
           "text": "My family loves watching Home Alone on ____.",
-          "answer": "Christmas Eve"
+          "answer": "Christmas Eve",
+          "hint": "Refer to the evening immediately preceding Christmas Day."
         },
         {
           "number": 5,
           "text": "It's going to be ____ before dinner. If you're hungry, why don't you have a snack?",
-          "answer": "a while"
+          "answer": "a while",
+          "hint": "Think of an expression meaning an unspecified period of waiting."
         },
         {
           "number": 6,
           "text": "I have to do some ____ things for work. Can I call you in about an hour?",
-          "answer": "last-minute"
+          "answer": "last-minute",
+          "hint": "Describe tasks done just before a deadline."
         }
       ]
     },
@@ -15268,27 +15334,32 @@
         {
           "number": 1,
           "text": "It's supposed to be rainy this weekend. Hmm...why don't we go to the Cactus Club? They have a big ____.",
-          "answer": "covered patio"
+          "answer": "covered patio",
+          "hint": "Think of an outdoor seating area protected from rain."
         },
         {
           "number": 2,
           "text": "Is it a ____ tonight?",
-          "answer": "special occasion"
+          "answer": "special occasion",
+          "hint": "Name an important event worth celebrating."
         },
         {
           "number": 3,
           "text": "I have a ____ for Tuesday at 3:00 that I'd like to cancel, please.",
-          "answer": "reservation"
+          "answer": "reservation",
+          "hint": "Name an advance arrangement to hold a table or appointment."
         },
         {
           "number": 4,
           "text": "You're pregnant? That's ____ news!",
-          "answer": "fantastic"
+          "answer": "fantastic",
+          "hint": "Use an enthusiastic adjective meaning extremely good."
         },
         {
           "number": 5,
           "text": "I'm not ____ yet if I can come, or not. Can I let you know in a few days?",
-          "answer": "100% sure"
+          "answer": "100% sure",
+          "hint": "Use a percentage to say you are completely certain."
         }
       ]
     },
@@ -15307,37 +15378,44 @@
         {
           "number": 1,
           "text": "My grandpa was ____ his life-savings.",
-          "answer": "conned out of"
+          "answer": "conned out of",
+          "hint": "Think of being tricked into giving away money."
         },
         {
           "number": 2,
           "text": "You have to ____ and report that guy!",
-          "answer": "come forward"
+          "answer": "come forward",
+          "hint": "Use the expression for volunteering information to the authorities."
         },
         {
           "number": 3,
           "text": "Taxes! Let's just ____ now.",
-          "answer": "get it over with"
+          "answer": "get it over with",
+          "hint": "Think of finishing an unpleasant task so you no longer have to worry about it."
         },
         {
           "number": 4,
           "text": "Please ____ this form and we'll get back to you if we're interested.",
-          "answer": "fill out"
+          "answer": "fill out",
+          "hint": "Use a two-word verb meaning to complete a form."
         },
         {
           "number": 5,
           "text": "____ a second. This is important. What's that website URL again?",
-          "answer": "hang on"
+          "answer": "hang on",
+          "hint": "Use an informal expression asking someone to wait briefly."
         },
         {
           "number": 6,
           "text": "Why don't I ____ you? It won't be so bad then. We'll grab some Starbucks before we go too.",
-          "answer": "go with"
+          "answer": "go with",
+          "hint": "Think of accompanying another person."
         },
         {
           "number": 7,
           "text": "____. Keep going! You're almost there.",
-          "answer": "come on"
+          "answer": "come on",
+          "hint": "Use an informal expression of encouragement."
         }
       ]
     },
@@ -15356,42 +15434,50 @@
         {
           "number": 1,
           "text": "Let's clean up the dishes ____ we go out.",
-          "answer": "before"
+          "answer": "before",
+          "hint": "Use a linking word showing that the first action happens earlier."
         },
         {
           "number": 2,
           "text": "____, I usually spend a few minutes on my cellphone.",
-          "answer": "when I wake up"
+          "answer": "when I wake up",
+          "hint": "Refer to the moment you stop sleeping in the morning."
         },
         {
           "number": 3,
           "text": "I generally sleep for ____.",
-          "answer": "7 hours a night"
+          "answer": "7 hours a night",
+          "hint": "Give the usual nightly sleep duration: one hour less than eight."
         },
         {
           "number": 4,
           "text": "____, I'm looking for a new job. Hopefully something pans out soon.",
-          "answer": "these days"
+          "answer": "these days",
+          "hint": "Think of a phrase meaning during the current period of your life."
         },
         {
           "number": 5,
           "text": "____, I like to be outside if the weather is nice.",
-          "answer": "in the evening"
+          "answer": "in the evening",
+          "hint": "Refer to the part of the day after the afternoon and earlier than bedtime."
         },
         {
           "number": 6,
           "text": "I'm usually desperate for more coffee ____.",
-          "answer": "by the afternoon"
+          "answer": "by the afternoon",
+          "hint": "Think of a deadline reached during the part of the day following noon."
         },
         {
           "number": 7,
           "text": "I like to have some background noise like a fan on ____. I live on a busy street.",
-          "answer": "when I'm sleeping"
+          "answer": "when I'm sleeping",
+          "hint": "Refer to the period during which you are asleep."
         },
         {
           "number": 8,
           "text": "____ are we meeting at the restaurant again?",
-          "answer": "what time"
+          "answer": "what time",
+          "hint": "Use two words to ask for a specific hour."
         }
       ]
     },
@@ -15410,17 +15496,20 @@
         {
           "number": 1,
           "text": "What are they going to do together?",
-          "answer": "They are going hiking."
+          "answer": "They are going hiking.",
+          "hint": "Recall the outdoor activity they plan to do together."
         },
         {
           "number": 2,
           "text": "Who is bringing snacks? Why?",
-          "answer": "Teddy is going to bring snacks because Jen is driving."
+          "answer": "Teddy is going to bring snacks because Jen is driving.",
+          "hint": "Identify the person bringing food and the favor the other person is doing."
         },
         {
           "number": 3,
           "text": "What are they doing after hiking?",
-          "answer": "They'll eat dinner together."
+          "answer": "They'll eat dinner together.",
+          "hint": "Recall their shared meal planned after the outdoor activity."
         }
       ]
     },
@@ -15439,47 +15528,56 @@
         {
           "number": 1,
           "text": "There will be ____ of more than 150 km/hour today.",
-          "answer": "wind gusts"
+          "answer": "wind gusts",
+          "hint": "Name sudden, brief increases in the strength of moving air."
         },
         {
           "number": 2,
           "text": "____ at night usually means good weather the next day.",
-          "answer": "clear skies"
+          "answer": "clear skies",
+          "hint": "Think of a cloudless appearance overhead."
         },
         {
           "number": 3,
           "text": "It's so ____. I just want to sit next to a pool.",
-          "answer": "hot and humid"
+          "answer": "hot and humid",
+          "hint": "Describe weather that combines high temperature with moisture in the air."
         },
         {
           "number": 4,
           "text": "You have to be ____ with this job.",
-          "answer": "prepared for anything"
+          "answer": "prepared for anything",
+          "hint": "Think of being ready for every possible situation."
         },
         {
           "number": 5,
           "text": "I'm not sure if we have that in stock. ____.",
-          "answer": "let me check"
+          "answer": "let me check",
+          "hint": "Use a short response asking for a moment to verify information."
         },
         {
           "number": 6,
           "text": "There are some serious ____ over there. I think we should turn around.",
-          "answer": "storm clouds"
+          "answer": "storm clouds",
+          "hint": "Name dark masses in the sky that suggest severe weather."
         },
         {
           "number": 7,
           "text": "The forecast showed some ____. Don't forget your umbrella.",
-          "answer": "scattered showers/light rain"
+          "answer": "scattered showers/light rain",
+          "hint": "Think of occasional rain in different places, or rain that is not heavy."
         },
         {
           "number": 8,
           "text": "What's the ____ for Japan this week? I need to know how to pack for my trip.",
-          "answer": "weather forecast"
+          "answer": "weather forecast",
+          "hint": "Name a prediction of future atmospheric conditions."
         },
         {
           "number": 9,
           "text": "I know it doesn't seem like it, but ____ are not ideal when sailing.",
-          "answer": "gale-force winds"
+          "answer": "gale-force winds",
+          "hint": "Think of very strong, sustained air movement associated with a gale."
         }
       ]
     },
@@ -15498,42 +15596,50 @@
         {
           "number": 1,
           "text": "Let's get the kids ____ a bit before bedtime.",
-          "answer": "settled down"
+          "answer": "settled down",
+          "hint": "Use the past-participle form of an expression meaning to become calmer."
         },
         {
           "number": 2,
           "text": "I hate doing things ____.",
-          "answer": "under the table"
+          "answer": "under the table",
+          "hint": "Think of an idiom for secret or unofficial activity, especially payments."
         },
         {
           "number": 3,
           "text": "I know you want to ____ but a gentler approach will work better here.",
-          "answer": "play hardball"
+          "answer": "play hardball",
+          "hint": "Use an idiom for taking a tough, aggressive approach in negotiations."
         },
         {
           "number": 4,
           "text": "Let's get this ____. I hate keeping secrets.",
-          "answer": "out in the open"
+          "answer": "out in the open",
+          "hint": "Think of making a secret publicly known."
         },
         {
           "number": 5,
           "text": "Honestly, there's ____. I don't care about that kind of thing.",
-          "answer": "no harm done"
+          "answer": "no harm done",
+          "hint": "Use an expression saying that no damage has resulted."
         },
         {
           "number": 6,
           "text": "Please don't ____ me. There's so much work to do.",
-          "answer": "bail on"
+          "answer": "bail on",
+          "hint": "Think of abandoning someone when they are depending on you."
         },
         {
           "number": 7,
           "text": "It's ____ that Tom is terrible at his job!",
-          "answer": "common knowledge"
+          "answer": "common knowledge",
+          "hint": "Use an expression for a fact that everyone already knows."
         },
         {
           "number": 8,
           "text": "The ____ during that meeting.",
-          "answer": "sparks were flying"
+          "answer": "sparks were flying",
+          "hint": "Think of an idiom suggesting strong tension or excitement between people."
         }
       ]
     },
@@ -15552,57 +15658,68 @@
         {
           "number": 1,
           "text": "Please do it again. That's ____.",
-          "answer": "not going to cut it"
+          "answer": "not going to cut it",
+          "hint": "Use an informal expression meaning not good enough."
         },
         {
           "number": 2,
           "text": "I hate having to work under ____. It's very stressful.",
-          "answer": "strict deadlines"
+          "answer": "strict deadlines",
+          "hint": "Think of firm time limits that must be met."
         },
         {
           "number": 3,
           "text": "In my ____, I love to hang out with friends.",
-          "answer": "free time"
+          "answer": "free time",
+          "hint": "Name the hours when you have no work or other obligations."
         },
         {
           "number": 4,
           "text": "He's always ____ with his math homework and gets so many answers wrong.",
-          "answer": "in a rush"
+          "answer": "in a rush",
+          "hint": "Use an expression meaning hurried and short of available minutes."
         },
         {
           "number": 5,
           "text": "I have to work ____ during the year-end.",
-          "answer": "from dawn till dusk"
+          "answer": "from dawn till dusk",
+          "hint": "Think of working all day, starting at first light and ending at nightfall."
         },
         {
           "number": 6,
           "text": "I'd love to ____ my drinking but it's difficult around the holidays.",
-          "answer": "cut back on"
+          "answer": "cut back on",
+          "hint": "Use a phrasal verb meaning to reduce the amount you consume."
         },
         {
           "number": 7,
           "text": "Covid-19 has impacted my social life! It's ____ around here.",
-          "answer": "same old, same old"
+          "answer": "same old, same old",
+          "hint": "Use a repeated informal expression meaning nothing has changed."
         },
         {
           "number": 8,
           "text": "I'd love to ____ and make a good decision about which program to take.",
-          "answer": "take my time"
+          "answer": "take my time",
+          "hint": "Think of proceeding slowly and carefully without hurrying."
         },
         {
           "number": 9,
           "text": "It's difficult to ____ in Vancouver when housing is so expensive.",
-          "answer": "get ahead"
+          "answer": "get ahead",
+          "hint": "Use an expression for making progress in life or financially."
         },
         {
           "number": 10,
           "text": "____, I'm trying to get in better shape.",
-          "answer": "these days"
+          "answer": "these days",
+          "hint": "Refer to the current period, rather than the past."
         },
         {
           "number": 11,
           "text": "We're ____ and will need to stay late tonight.",
-          "answer": "running out of time"
+          "answer": "running out of time",
+          "hint": "Think of having fewer and fewer minutes left to finish a task."
         }
       ]
     },
@@ -15621,17 +15738,20 @@
         {
           "number": 1,
           "text": "What does Terry need help with?",
-          "answer": "He needs someone to look after his son during his dentist appointment."
+          "answer": "He needs someone to look after his son during his dentist appointment.",
+          "hint": "Recall the family responsibility Terry cannot handle during his dental visit."
         },
         {
           "number": 2,
           "text": "What are Jay and Todd going to do together?",
-          "answer": "They'll watch a movie."
+          "answer": "They'll watch a movie.",
+          "hint": "Identify the leisure activity Jay and Todd plan to share."
         },
         {
           "number": 3,
           "text": "Where are they going to watch a movie?",
-          "answer": "They'll watch the movie at Jay's house."
+          "answer": "They'll watch the movie at Jay's house.",
+          "hint": "Recall whose home will be used for that activity."
         }
       ]
     },
@@ -15650,47 +15770,56 @@
         {
           "number": 1,
           "text": "What's your favourite ____ platform?",
-          "answer": "social media"
+          "answer": "social media",
+          "hint": "Name the category of websites and apps for sharing posts and connecting with others."
         },
         {
           "number": 2,
           "text": "____, I like to go for a run and then go home and cook dinner.",
-          "answer": "after work"
+          "answer": "after work",
+          "hint": "Refer to the period following the end of your working day."
         },
         {
           "number": 3,
           "text": "She wants to ____ from home as well as at work. Is it possible?",
-          "answer": "check her email"
+          "answer": "check her email",
+          "hint": "Think of looking at the messages in a woman's electronic inbox."
         },
         {
           "number": 4,
           "text": "I can only ____ at school.",
-          "answer": "access the Internet"
+          "answer": "access the Internet",
+          "hint": "Use the expression for being able to connect to the global computer network."
         },
         {
           "number": 5,
           "text": "What's the best way to ____, phone or computer?",
-          "answer": "get online"
+          "answer": "get online",
+          "hint": "Think of connecting to the web."
         },
         {
           "number": 6,
           "text": "____. I have to study tonight.",
-          "answer": "Sorry, I can't"
+          "answer": "Sorry, I can't",
+          "hint": "Use a polite refusal that starts with an apology."
         },
         {
           "number": 7,
           "text": "Does anyone say ____ these days? Maybe only seniors!",
-          "answer": "surf the web"
+          "answer": "surf the web",
+          "hint": "Think of an older expression for casually browsing websites."
         },
         {
           "number": 8,
           "text": "Do you want to ____ this weekend?",
-          "answer": "grab dinner"
+          "answer": "grab dinner",
+          "hint": "Use a casual expression for having an evening meal together."
         },
         {
           "number": 9,
           "text": "Now that I've ____, I can start online gaming!",
-          "answer": "got the internet hooked up"
+          "answer": "got the internet hooked up",
+          "hint": "Think of having your home web connection installed and activated."
         }
       ]
     },
@@ -15709,32 +15838,38 @@
         {
           "number": 1,
           "text": "____, I was a teacher.",
-          "answer": "formerly"
+          "answer": "formerly",
+          "hint": "Use an adverb meaning in the past or previously."
         },
         {
           "number": 2,
           "text": "____, I'm working at Home Depot but I hope to get a better job.",
-          "answer": "for the time being/at the moment"
+          "answer": "for the time being/at the moment",
+          "hint": "Think of a temporary situation, or what is true right now."
         },
         {
           "number": 3,
           "text": "I'm so bored at work. My coworker and I just ____ for hours.",
-          "answer": "pass the time of day"
+          "answer": "pass the time of day",
+          "hint": "Use an idiom for spending time in casual conversation."
         },
         {
           "number": 4,
           "text": "I ____ drink alcohol.",
-          "answer": "rarely"
+          "answer": "rarely",
+          "hint": "Use an adverb meaning almost never."
         },
         {
           "number": 5,
           "text": "I have a lot of ____. Maybe I'll clean out the garage this weekend.",
-          "answer": "time on my hands"
+          "answer": "time on my hands",
+          "hint": "Think of having spare hours with nothing you need to do."
         },
         {
           "number": 6,
           "text": "I ____ have some lingering side effects from getting Covid-19.",
-          "answer": "still"
+          "answer": "still",
+          "hint": "Use an adverb showing that a condition continues."
         }
       ]
     },
@@ -15753,42 +15888,50 @@
         {
           "number": 1,
           "text": "Getting ____ in class is my worst nightmare.",
-          "answer": "called on"
+          "answer": "called on",
+          "hint": "Think of being selected by the teacher to answer a question."
         },
         {
           "number": 2,
           "text": "I ____ late this morning and had to rush to get to work on time.",
-          "answer": "woke up"
+          "answer": "woke up",
+          "hint": "Use the past form of the expression for stopping sleeping."
         },
         {
           "number": 3,
           "text": "I ____ laughing at the coffee shop when my friend told a joke. It was so embarrassing.",
-          "answer": "burst out"
+          "answer": "burst out",
+          "hint": "Think of suddenly starting to laugh."
         },
         {
           "number": 4,
           "text": "My son ____ of his crib when he was little but thankfully, no serious injuries.",
-          "answer": "fell out"
+          "answer": "fell out",
+          "hint": "Use the past form of an expression meaning to tumble from inside something."
         },
         {
           "number": 5,
           "text": "____. Let's get real. I don't think we can do all those things in two hours.",
-          "answer": "come on"
+          "answer": "come on",
+          "hint": "Use an informal expression showing disbelief or impatience."
         },
         {
           "number": 6,
           "text": "My brother is the master of ____ on airplanes. I wish!",
-          "answer": "dozing off"
+          "answer": "dozing off",
+          "hint": "Think of sleeping lightly for a short period."
         },
         {
           "number": 7,
           "text": "You'll ____ eventually. Have a beer with me tonight and let's not talk about it!",
-          "answer": "get over it"
+          "answer": "get over it",
+          "hint": "Use an expression for recovering emotionally from something upsetting."
         },
         {
           "number": 8,
           "text": "Why would he ____? It has to be true.",
-          "answer": "make it up"
+          "answer": "make it up",
+          "hint": "Think of inventing a story that is not true."
         }
       ]
     },
@@ -15807,32 +15950,38 @@
         {
           "number": 1,
           "text": "I'll ____ at 3:00. Is that okay for you?",
-          "answer": "pick you up"
+          "answer": "pick you up",
+          "hint": "Think of collecting someone by car."
         },
         {
           "number": 2,
           "text": "What's the ____ like there? Maybe expensive? Should we take the subway instead?",
-          "answer": "parking"
+          "answer": "parking",
+          "hint": "Name the activity of leaving a vehicle in a designated space."
         },
         {
           "number": 3,
           "text": "That's so ____ about your new boyfriend! He's so cute.",
-          "answer": "rad"
+          "answer": "rad",
+          "hint": "Use a short slang adjective meaning excellent or cool."
         },
         {
           "number": 4,
           "text": "The ____ is showing rain all weekend. Maybe we should cancel our camping trip.",
-          "answer": "weather forecast"
+          "answer": "weather forecast",
+          "hint": "Name a prediction of future atmospheric conditions."
         },
         {
           "number": 5,
           "text": "I love to catch the ____ at the beach whenever possible.",
-          "answer": "sunset"
+          "answer": "sunset",
+          "hint": "Name the daily event when the sun disappears below the horizon."
         },
         {
           "number": 6,
           "text": "There are ____ of only 7 overnight. Be sure to dress warmly.",
-          "answer": "highs"
+          "answer": "highs",
+          "hint": "Think of the maximum temperatures predicted for a period."
         }
       ]
     },
@@ -15851,17 +16000,20 @@
         {
           "number": 1,
           "text": "What are Tim's problems?",
-          "answer": "He can't hear the music well and he's also cold."
+          "answer": "He can't hear the music well and he's also cold.",
+          "hint": "Recall the two things Tim wants adjusted: sound and warmth."
         },
         {
           "number": 2,
           "text": "Is Tim sick?",
-          "answer": "No, he isn't."
+          "answer": "No, he isn't.",
+          "hint": "Decide whether his complaints mean he is ill."
         },
         {
           "number": 3,
           "text": "Does Tim borrow a sweater from Jen?",
-          "answer": "No, he doesn't. He borrows a blanket."
+          "answer": "No, he doesn't. He borrows a blanket.",
+          "hint": "Check which warm item he actually borrows."
         }
       ]
     },
@@ -15881,32 +16033,38 @@
         {
           "number": 1,
           "text": "I don't have much ____ now that I have kids.",
-          "answer": "free time"
+          "answer": "free time",
+          "hint": "Think of the hours available for hobbies or relaxing."
         },
         {
           "number": 2,
           "text": "____ are coming to my company.",
-          "answer": "budget cutbacks"
+          "answer": "budget cutbacks",
+          "hint": "Name reductions in the money an organization is allowed to spend."
         },
         {
           "number": 3,
           "text": "How was your ____? Did you like her?",
-          "answer": "coffee date"
+          "answer": "coffee date",
+          "hint": "Think of meeting a potential romantic partner over a hot drink."
         },
         {
           "number": 4,
           "text": "She's very ____ and easy to talk to.",
-          "answer": "down to Earth"
+          "answer": "down to Earth",
+          "hint": "Use an idiom meaning practical, sensible, and unpretentious."
         },
         {
           "number": 5,
           "text": "How can I get my kids to eat more ____?",
-          "answer": "fruits and vegetables"
+          "answer": "fruits and vegetables",
+          "hint": "Name two major groups of healthy plant-based foods."
         },
         {
           "number": 6,
           "text": "Sorry, I can't talk right now. I have to ____.",
-          "answer": "get back to work"
+          "answer": "get back to work",
+          "hint": "Think of returning to your job tasks after a break."
         }
       ],
       "wordBank": [
@@ -15937,47 +16095,56 @@
         {
           "number": 1,
           "text": "Do you want to ____ next Friday?",
-          "answer": "have lunch"
+          "answer": "have lunch",
+          "hint": "Think of sharing the midday meal."
         },
         {
           "number": 2,
           "text": "Please ____! You'll need to know this for your test next week.",
-          "answer": "pay attention"
+          "answer": "pay attention",
+          "hint": "Use the expression for listening or watching carefully."
         },
         {
           "number": 3,
           "text": "If you ____ to Dr. Kim's class, you have to sit in the front row.",
-          "answer": "come late"
+          "answer": "come late",
+          "hint": "Think of arriving after the expected starting time."
         },
         {
           "number": 4,
           "text": "Jeremy, ____. You did so well on your last report card.",
-          "answer": "keep up the good work"
+          "answer": "keep up the good work",
+          "hint": "Use an encouraging expression meaning to continue performing well."
         },
         {
           "number": 5,
           "text": "Don't worry about it. It's ____.",
-          "answer": "my treat"
+          "answer": "my treat",
+          "hint": "Use a short expression saying that you will pay for someone else."
         },
         {
           "number": 6,
           "text": "Please ____. I'm going to be a little bit late getting there.",
-          "answer": "save me a seat"
+          "answer": "save me a seat",
+          "hint": "Think of reserving a place to sit for another person."
         },
         {
           "number": 7,
           "text": "I can't go to the mall! So many things ____ and I spend too much money.",
-          "answer": "catch my eye"
+          "answer": "catch my eye",
+          "hint": "Use an idiom meaning to attract my attention."
         },
         {
           "number": 8,
           "text": "Please ____ for this meeting, okay?",
-          "answer": "take notes"
+          "answer": "take notes",
+          "hint": "Think of writing down important information during a meeting."
         },
         {
           "number": 9,
           "text": "Please ____ doing this test. You have two hours to do it.",
-          "answer": "take your time"
+          "answer": "take your time",
+          "hint": "Use an expression telling someone there is no need to hurry."
         }
       ]
     },
@@ -15996,42 +16163,50 @@
         {
           "number": 1,
           "text": "Why pay for it when you can ____?",
-          "answer": "download it for free"
+          "answer": "download it for free",
+          "hint": "Think of obtaining a digital copy without paying."
         },
         {
           "number": 2,
           "text": "Do you know when that ____ on Netflix?",
-          "answer": "comes out"
+          "answer": "comes out",
+          "hint": "Use a phrasal verb meaning to become available to the public."
         },
         {
           "number": 3,
           "text": "Do you think our local ____ will survive Covid-19?",
-          "answer": "movie theater"
+          "answer": "movie theater",
+          "hint": "Name a place where people watch films on a big screen."
         },
         {
           "number": 4,
           "text": "Have you seen the ____ for that one yet?",
-          "answer": "movie trailer"
+          "answer": "movie trailer",
+          "hint": "Name a short promotional video showing scenes from a film."
         },
         {
           "number": 5,
           "text": "The ____ in that book was so complex.",
-          "answer": "main character"
+          "answer": "main character",
+          "hint": "Name the central person in a story."
         },
         {
           "number": 6,
           "text": "She was amazing in that ____. She stole the show.",
-          "answer": "supporting role"
+          "answer": "supporting role",
+          "hint": "Think of an acting part that is important but is not the lead."
         },
         {
           "number": 7,
           "text": "I love to go to a play's ____. There's a different kind of buzz.",
-          "answer": "opening night"
+          "answer": "opening night",
+          "hint": "Name the first public evening performance of a show."
         },
         {
           "number": 8,
           "text": "What's going to be the ____ of the year?",
-          "answer": "box office hit"
+          "answer": "box office hit",
+          "hint": "Think of a film that sells a very large number of tickets."
         }
       ]
     },
@@ -16050,42 +16225,50 @@
         {
           "number": 1,
           "text": "Why don't you ____ on Tuesday for dinner?",
-          "answer": "come over"
+          "answer": "come over",
+          "hint": "Use the expression for visiting someone's home."
         },
         {
           "number": 2,
           "text": "Can you please ____ a pizza for dinner tonight?",
-          "answer": "pick up"
+          "answer": "pick up",
+          "hint": "Think of collecting prepared food to take home."
         },
         {
           "number": 3,
           "text": "You're here now! Just ____ and have a beer.",
-          "answer": "kick back"
+          "answer": "kick back",
+          "hint": "Use an informal expression meaning to relax."
         },
         {
           "number": 4,
           "text": "Please ____. It's difficult to hear the doorbell.",
-          "answer": "let yourself in"
+          "answer": "let yourself in",
+          "hint": "Think of entering a home without waiting for someone to open the door."
         },
         {
           "number": 5,
           "text": "Don't worry about it. We'll ____ together.",
-          "answer": "figure it out"
+          "answer": "figure it out",
+          "hint": "Use an expression meaning to solve a problem or understand a situation."
         },
         {
           "number": 6,
           "text": "I'll ____ after dinner tonight. Is that okay?",
-          "answer": "stop by"
+          "answer": "stop by",
+          "hint": "Think of making a brief visit."
         },
         {
           "number": 7,
           "text": "You can just ____ between six and nine. No need to make an appointment.",
-          "answer": "drop in"
+          "answer": "drop in",
+          "hint": "Use an expression for visiting without an appointment."
         },
         {
           "number": 8,
           "text": "Let's ____ Tony. We haven't seen him in a long time.",
-          "answer": "ring up"
+          "answer": "ring up",
+          "hint": "Think of contacting someone by telephone."
         }
       ]
     },
@@ -16104,32 +16287,38 @@
         {
           "number": 1,
           "text": "Ted and I are ____ on Sunday but I'm not sure what we're going to do yet.",
-          "answer": "hanging out"
+          "answer": "hanging out",
+          "hint": "Use the -ing form of an expression for spending time together casually."
         },
         {
           "number": 2,
           "text": "I hate having a long ____. That's why I'm thinking about moving.",
-          "answer": "commute"
+          "answer": "commute",
+          "hint": "Name the regular journey between home and work."
         },
         {
           "number": 3,
           "text": "____, I think that I can do both things tomorrow.",
-          "answer": "optimistically"
+          "answer": "optimistically",
+          "hint": "Use an adverb meaning with hope and confidence about the outcome."
         },
         {
           "number": 4,
           "text": "Do you want to ____ on Thursday?",
-          "answer": "go out for lunch"
+          "answer": "go out for lunch",
+          "hint": "Think of leaving your home or workplace to have the midday meal."
         },
         {
           "number": 5,
           "text": "____ was so bad today. That's why I'm late.",
-          "answer": "traffic"
+          "answer": "traffic",
+          "hint": "Name the vehicles moving on the roads."
         },
         {
           "number": 6,
           "text": "There are both pros and cons to living in a ____.",
-          "answer": "high rise"
+          "answer": "high rise",
+          "hint": "Name a tall residential building with many floors."
         }
       ]
     },
@@ -16148,17 +16337,20 @@
         {
           "number": 1,
           "text": "What time does the concert start?",
-          "answer": "The concert starts at 9:00."
+          "answer": "The concert starts at 9:00.",
+          "hint": "Find the exact time the performance begins."
         },
         {
           "number": 2,
           "text": "How are they getting there? Why?",
-          "answer": "They are taking the Skytrain because parking is expensive."
+          "answer": "They are taking the Skytrain because parking is expensive.",
+          "hint": "Identify their transport to the venue and the cost they want to avoid."
         },
         {
           "number": 3,
           "text": "How are they getting home? Why?",
-          "answer": "They are taking an Uber home because it'll be too late to take the Skytrain."
+          "answer": "They are taking an Uber home because it'll be too late to take the Skytrain.",
+          "hint": "Identify their return transport and why the earlier option will no longer work."
         }
       ]
     },
@@ -16177,32 +16369,38 @@
         {
           "number": 1,
           "text": "____ of summer, I love to celebrate with a backyard party.",
-          "answer": "on the first day"
+          "answer": "on the first day",
+          "hint": "Refer to the very beginning of the season."
         },
         {
           "number": 2,
           "text": "With climate change, it seems like the snow is melting ____ each year.",
-          "answer": "earlier"
+          "answer": "earlier",
+          "hint": "Use a comparative adverb meaning sooner than in previous years."
         },
         {
           "number": 3,
           "text": "____, I like to plant my garden around May 1st.",
-          "answer": "every year"
+          "answer": "every year",
+          "hint": "Think of something that happens annually."
         },
         {
           "number": 4,
           "text": "____, I love to plan a ski trip with my friends.",
-          "answer": "every winter"
+          "answer": "every winter",
+          "hint": "Refer to a repeated activity during the coldest season."
         },
         {
           "number": 5,
           "text": "I'm going to start university ____.",
-          "answer": "next month"
+          "answer": "next month",
+          "hint": "Name the calendar period immediately following the current one."
         },
         {
           "number": 6,
           "text": "Why don't we catch a movie ____?",
-          "answer": "tomorrow evening"
+          "answer": "tomorrow evening",
+          "hint": "Refer to the late part of the day following today."
         }
       ]
     },
@@ -16221,52 +16419,62 @@
         {
           "number": 1,
           "text": "That ____ to me why he would choose to change jobs.",
-          "answer": "makes sense"
+          "answer": "makes sense",
+          "hint": "Use an expression meaning to be logical or understandable."
         },
         {
           "number": 2,
           "text": "I don't have to ____ until second year.",
-          "answer": "choose a major"
+          "answer": "choose a major",
+          "hint": "Think of deciding on the main subject you will study at university."
         },
         {
           "number": 3,
           "text": "What ____ did you graduate from?",
-          "answer": "high school"
+          "answer": "high school",
+          "hint": "Name the level of education immediately preceding university."
         },
         {
           "number": 4,
           "text": "He didn't get ____ so has to retake some classes.",
-          "answer": "good grades"
+          "answer": "good grades",
+          "hint": "Think of strong academic results or marks."
         },
         {
           "number": 5,
           "text": "I'm planning on taking ____ my first year.",
-          "answer": "general studies"
+          "answer": "general studies",
+          "hint": "Name a broad program of study without a narrow specialization."
         },
         {
           "number": 6,
           "text": "The most important thing to me is a job with a ____.",
-          "answer": "good salary"
+          "answer": "good salary",
+          "hint": "Think of an attractive amount of regular pay from a job."
         },
         {
           "number": 7,
           "text": "I think I can ____ for university next year.",
-          "answer": "get a scholarship"
+          "answer": "get a scholarship",
+          "hint": "Use an expression meaning to obtain financial support based on merit or eligibility."
         },
         {
           "number": 8,
           "text": "I'm in my ____. I just started last month.",
-          "answer": "first year"
+          "answer": "first year",
+          "hint": "Refer to the initial stage of a university program."
         },
         {
           "number": 9,
           "text": "My son is so lazy that I think he might not even ____.",
-          "answer": "apply to university"
+          "answer": "apply to university",
+          "hint": "Think of submitting a request to enter a higher education institution."
         },
         {
           "number": 10,
           "text": "Did you take out the trash? ____.",
-          "answer": "not yet"
+          "answer": "not yet",
+          "hint": "Use a short response meaning the task has not been completed so far."
         }
       ]
     },
@@ -16285,37 +16493,44 @@
         {
           "number": 1,
           "text": "Our ____ is $20 more than normal this month.",
-          "answer": "electricity bill"
+          "answer": "electricity bill",
+          "hint": "Name the statement showing the cost of your household's power use."
         },
         {
           "number": 2,
           "text": "Small things can add up and ____ for the environment.",
-          "answer": "make a difference"
+          "answer": "make a difference",
+          "hint": "Use an expression meaning to have a positive effect."
         },
         {
           "number": 3,
           "text": "I want to ____ but I often feel overwhelmed and don't know where to start.",
-          "answer": "save the environment"
+          "answer": "save the environment",
+          "hint": "Think of protecting nature and the world around us."
         },
         {
           "number": 4,
           "text": "Let's try to find a ____ online for how to clean our dishwasher.",
-          "answer": "helpful guide"
+          "answer": "helpful guide",
+          "hint": "Name a useful set of instructions that explains how to do something."
         },
         {
           "number": 5,
           "text": "Don't you think that trying to help him is ____?",
-          "answer": "a waste of time"
+          "answer": "a waste of time",
+          "hint": "Think of an activity that uses hours without achieving anything useful."
         },
         {
           "number": 6,
           "text": "I'd like to ____ on food by not eating out so much.",
-          "answer": "save money"
+          "answer": "save money",
+          "hint": "Use an expression meaning to spend less cash."
         },
         {
           "number": 7,
           "text": "Let's turn off the lights every morning before we go to work so we can ____.",
-          "answer": "save electricity/save energy"
+          "answer": "save electricity/save energy",
+          "hint": "Think of reducing the power consumed in your home."
         }
       ]
     },
@@ -16334,22 +16549,26 @@
         {
           "number": 1,
           "text": "Who is Riley?",
-          "answer": "Riley is Trina's dog."
+          "answer": "Riley is Trina's dog.",
+          "hint": "Identify the animal and the person she belongs to."
         },
         {
           "number": 2,
           "text": "Where did Trina get Riley?",
-          "answer": "She got her at the animal shelter (a place for animals without homes)"
+          "answer": "She got her at the animal shelter (a place for animals without homes)",
+          "hint": "Recall the place that cares for animals needing homes."
         },
         {
           "number": 3,
           "text": "What are the positives and negatives about Riley?",
-          "answer": "Riley is funny cute, and friendly. However, she likes to eat things like the couch or shoes."
+          "answer": "Riley is funny cute, and friendly. However, she likes to eat things like the couch or shoes.",
+          "hint": "Recall Riley's appealing qualities and her destructive habit."
         },
         {
           "number": 4,
           "text": "When did Trina get Riley?",
-          "answer": "She got her last week."
+          "answer": "She got her last week.",
+          "hint": "Find how recently Trina adopted her."
         }
       ]
     },
@@ -16368,37 +16587,44 @@
         {
           "number": 1,
           "text": "I love camping but ____ all the gear at the end of the trip is the worst.",
-          "answer": "packing up"
+          "answer": "packing up",
+          "hint": "Use an -ing expression for gathering your equipment and putting it into bags."
         },
         {
           "number": 2,
           "text": "Don't forget to ____ the sink after you're done with the dishes.",
-          "answer": "wipe out"
+          "answer": "wipe out",
+          "hint": "Think of cleaning the inside of something with a cloth."
         },
         {
           "number": 3,
           "text": "Where can I ____ my computer? There are no outlets in this classroom.",
-          "answer": "plug in"
+          "answer": "plug in",
+          "hint": "Use the expression for connecting a device to an electrical outlet."
         },
         {
           "number": 4,
           "text": "Take your wet socks out of your shoes or they'll never ____.",
-          "answer": "dry out"
+          "answer": "dry out",
+          "hint": "Think of losing all moisture and becoming no longer wet."
         },
         {
           "number": 5,
           "text": "Let's ____ about how we're going to tackle this. It's a big project.",
-          "answer": "think ahead"
+          "answer": "think ahead",
+          "hint": "Use an expression for planning for future needs or problems."
         },
         {
           "number": 6,
           "text": "I can ____ what date the campground opens.",
-          "answer": "look up"
+          "answer": "look up",
+          "hint": "Think of searching for a specific piece of information."
         },
         {
           "number": 7,
           "text": "Can you please ____ your bag when we get home? I'll grab the soccer ball.",
-          "answer": "take in"
+          "answer": "take in",
+          "hint": "Use a phrasal verb meaning to carry something indoors."
         }
       ]
     },
@@ -16417,37 +16643,44 @@
         {
           "number": 1,
           "text": "I just got a new ____ at that restaurant down the street.",
-          "answer": "part-time job"
+          "answer": "part-time job",
+          "hint": "Name paid work that takes fewer hours than a full working week."
         },
         {
           "number": 2,
           "text": "No charge. These samples are ____.",
-          "answer": "free"
+          "answer": "free",
+          "hint": "Use an adjective meaning no payment is required."
         },
         {
           "number": 3,
           "text": "Mom! It's so ____ that you won't let me take the car this weekend.",
-          "answer": "unfair"
+          "answer": "unfair",
+          "hint": "Think of an adjective meaning not just or reasonable."
         },
         {
           "number": 4,
           "text": "I give my kids $10 a week for ____.",
-          "answer": "allowance"
+          "answer": "allowance",
+          "hint": "Name the regular spending money parents give their children."
         },
         {
           "number": 5,
           "text": "Do you have any ____ on you? I think that food truck doesn't take credit cards.",
-          "answer": "cash"
+          "answer": "cash",
+          "hint": "Name physical money, such as banknotes and coins."
         },
         {
           "number": 6,
           "text": "I ____ way too much. It's why I don't have any money!",
-          "answer": "eat out"
+          "answer": "eat out",
+          "hint": "Think of having meals at restaurants instead of at home."
         },
         {
           "number": 7,
           "text": "Seriously? That bottle of water costs seven ____? I'd rather be thirsty.",
-          "answer": "bucks"
+          "answer": "bucks",
+          "hint": "Use a casual word for dollars."
         }
       ]
     },
@@ -16466,52 +16699,62 @@
         {
           "number": 1,
           "text": "My son eats way too much ____. He probably eats an entire box of crackers a day!",
-          "answer": "processed food"
+          "answer": "processed food",
+          "hint": "Name food that has been industrially prepared or altered."
         },
         {
           "number": 2,
           "text": "I want to ____ so that I can lose weight for my sister's wedding.",
-          "answer": "go on a diet"
+          "answer": "go on a diet",
+          "hint": "Think of changing what you eat in order to lose weight."
         },
         {
           "number": 3,
           "text": "Avoid ____ at dinner if you want to drop a few pounds.",
-          "answer": "second helpings"
+          "answer": "second helpings",
+          "hint": "Name extra servings after you have finished your first plate."
         },
         {
           "number": 4,
           "text": "I love ____ like potato chips and candy.",
-          "answer": "junk food"
+          "answer": "junk food",
+          "hint": "Think of snacks that taste good but have little nutritional value."
         },
         {
           "number": 5,
           "text": "I want to reduce my ____. For example, only one piece of chicken instead of two.",
-          "answer": "portion sizes"
+          "answer": "portion sizes",
+          "hint": "Name the quantities of food served or eaten at one time."
         },
         {
           "number": 6,
           "text": "It's best to eat a variety of brightly colored ____.",
-          "answer": "fruits and vegetables"
+          "answer": "fruits and vegetables",
+          "hint": "Name two major categories of healthy plant foods."
         },
         {
           "number": 7,
           "text": "My ____ are terrible. I often skip breakfast and then snack late at night.",
-          "answer": "eating habits"
+          "answer": "eating habits",
+          "hint": "Think of your usual patterns and routines around meals."
         },
         {
           "number": 8,
           "text": "I love my husband's ____.",
-          "answer": "home-cooked meals"
+          "answer": "home-cooked meals",
+          "hint": "Name dishes prepared in your own kitchen rather than bought ready-made."
         },
         {
           "number": 9,
           "text": "My ____ is to stop smoking.",
-          "answer": "New Year's resolution"
+          "answer": "New Year's resolution",
+          "hint": "Think of a personal goal traditionally set at the start of January."
         },
         {
           "number": 10,
           "text": "A ____ consists of healthy foods from a variety of food groups.",
-          "answer": "balanced diet"
+          "answer": "balanced diet",
+          "hint": "Name an eating plan that includes suitable amounts from different food groups."
         }
       ]
     },
@@ -16530,17 +16773,20 @@
         {
           "number": 1,
           "text": "What task are they doing first and putting in a load of laundry?",
-          "answer": "They are putting all the stuff away first."
+          "answer": "They are putting all the stuff away first.",
+          "hint": "Recall how they clear the clutter before cleaning."
         },
         {
           "number": 2,
           "text": "What is Tony going to do next?",
-          "answer": "He's going to clean the bathrooms."
+          "answer": "He's going to clean the bathrooms.",
+          "hint": "Find the rooms Tony agrees to clean."
         },
         {
           "number": 3,
           "text": "What is Emma going to do next?",
-          "answer": "She's going to clean the floors."
+          "answer": "She's going to clean the floors.",
+          "hint": "Recall the surfaces Emma plans to clean."
         }
       ]
     },
@@ -16559,57 +16805,68 @@
         {
           "number": 1,
           "text": "I was sick for almost a month but I'm now ____.",
-          "answer": "fully recovered"
+          "answer": "fully recovered",
+          "hint": "Think of being completely healthy again after an illness."
         },
         {
           "number": 2,
           "text": "Please ____. You're sick!",
-          "answer": "go to the doctor"
+          "answer": "go to the doctor",
+          "hint": "Use an expression meaning to seek medical advice from a physician."
         },
         {
           "number": 3,
           "text": "My son ____ from the other kids at school.",
-          "answer": "caught a cold"
+          "answer": "caught a cold",
+          "hint": "Use the past form of an expression meaning to become ill with a common minor virus."
         },
         {
           "number": 4,
           "text": "I ____ for almost two months. It was terrible.",
-          "answer": "had the flu"
+          "answer": "had the flu",
+          "hint": "Think of being ill with influenza in the past."
         },
         {
           "number": 5,
           "text": "Well, ____. What's happening with you these days?",
-          "answer": "enough about me"
+          "answer": "enough about me",
+          "hint": "Use an expression to stop discussing yourself and ask about the other person."
         },
         {
           "number": 6,
           "text": "He is ____ late for work.",
-          "answer": "quite often"
+          "answer": "quite often",
+          "hint": "Think of a phrase meaning frequently, but not always."
         },
         {
           "number": 7,
           "text": "These ____ have been tough. I lost my job plus my dog died too.",
-          "answer": "couple of weeks"
+          "answer": "couple of weeks",
+          "hint": "Refer to a period of about fourteen days."
         },
         {
           "number": 8,
           "text": "That's ____ for getting sick. November is your busiest month at work, right?",
-          "answer": "terrible timing"
+          "answer": "terrible timing",
+          "hint": "Think of an event happening at a particularly inconvenient moment."
         },
         {
           "number": 9,
           "text": "I've been ____ for my ear infection but it's not getting better.",
-          "answer": "taking antibiotics"
+          "answer": "taking antibiotics",
+          "hint": "Use an -ing expression for using medicine that treats bacterial infections."
         },
         {
           "number": 10,
           "text": "I'm well stocked with ____ at home.",
-          "answer": "over-the-counter medications"
+          "answer": "over-the-counter medications",
+          "hint": "Name medicines you can buy without a prescription."
         },
         {
           "number": 11,
           "text": "____ for work takes me at least an hour.",
-          "answer": "Getting ready"
+          "answer": "Getting ready",
+          "hint": "Use an -ing expression meaning preparing yourself to leave."
         }
       ]
     },
@@ -16628,27 +16885,32 @@
         {
           "number": 1,
           "text": "You'll get into Harvard. It's a ____ I think.",
-          "answer": "sure thing"
+          "answer": "sure thing",
+          "hint": "Think of something that is almost certain to happen."
         },
         {
           "number": 2,
           "text": "Drink some water too if you don't want to have a ____.",
-          "answer": "hangover"
+          "answer": "hangover",
+          "hint": "Name the unpleasant condition experienced after drinking too much alcohol."
         },
         {
           "number": 3,
           "text": "It's been ____. Let's get lunch soon.",
-          "answer": "too long"
+          "answer": "too long",
+          "hint": "Think of a period that has lasted longer than it should."
         },
         {
           "number": 4,
           "text": "I have a ____ cold and can't come.",
-          "answer": "terrible"
+          "answer": "terrible",
+          "hint": "Use an adjective meaning very bad or severe."
         },
         {
           "number": 5,
           "text": "I need to ____ before we go out tonight.",
-          "answer": "catch some Z's"
+          "answer": "catch some Z's",
+          "hint": "Use an informal expression meaning to get some sleep."
         }
       ]
     },
@@ -16667,17 +16929,20 @@
         {
           "number": 1,
           "text": "What is Terry doing for summer vacation?",
-          "answer": "He wants to go camping with his family."
+          "answer": "He wants to go camping with his family.",
+          "hint": "Recall Terry's outdoor accommodation plan and who will join him."
         },
         {
           "number": 2,
           "text": "What can the kids do at Cultus Lake?",
-          "answer": "They can go on the waterslides."
+          "answer": "They can go on the waterslides.",
+          "hint": "Find the water-based attraction available for the children."
         },
         {
           "number": 3,
           "text": "Is Kev planning to go on hikes that he's done before?",
-          "answer": "No, he isn't."
+          "answer": "No, he isn't.",
+          "hint": "Check whether Kev wants familiar routes or new ones."
         }
       ]
     },
@@ -16696,52 +16961,62 @@
         {
           "number": 1,
           "text": "I usually get up at ____.",
-          "answer": "dawn"
+          "answer": "dawn",
+          "hint": "Name the time when the first daylight appears."
         },
         {
           "number": 2,
           "text": "Let's go hiking but not a really short one. I have ____.",
-          "answer": "a few hours"
+          "answer": "a few hours",
+          "hint": "Think of a small number of sixty-minute periods."
         },
         {
           "number": 3,
           "text": "He's ____ so has lots of time to play tennis now.",
-          "answer": "retired"
+          "answer": "retired",
+          "hint": "Describe someone who has permanently stopped working because of age."
         },
         {
           "number": 4,
           "text": "Let's get this house cleaned up. It will only take us ____.",
-          "answer": "a couple of hours"
+          "answer": "a couple of hours",
+          "hint": "Think of a duration of roughly two sixty-minute periods."
         },
         {
           "number": 5,
           "text": "I hate getting up ____.",
-          "answer": "before the sun rises"
+          "answer": "before the sun rises",
+          "hint": "Refer to a point earlier than the appearance of the sun."
         },
         {
           "number": 6,
           "text": "I ____ play video games—almost every day.",
-          "answer": "frequently"
+          "answer": "frequently",
+          "hint": "Use an adverb meaning often."
         },
         {
           "number": 7,
           "text": "The best time for tennis is at ____ because the sun won't be in your eyes.",
-          "answer": "midday"
+          "answer": "midday",
+          "hint": "Name the middle of the day, around twelve o'clock."
         },
         {
           "number": 8,
           "text": "I love being outside at ____. It's such a nice time of the day.",
-          "answer": "dusk"
+          "answer": "dusk",
+          "hint": "Name the period of fading light shortly after sunset."
         },
         {
           "number": 9,
           "text": "I only make my kids take a shower ____. Maybe it's not enough?",
-          "answer": "twice a week"
+          "answer": "twice a week",
+          "hint": "Think of a frequency of two times in seven days."
         },
         {
           "number": 10,
           "text": "____, why don't we go for a walk?",
-          "answer": "after dinner"
+          "answer": "after dinner",
+          "hint": "Refer to the period following the evening meal."
         }
       ]
     },
@@ -16760,22 +17035,26 @@
         {
           "number": 1,
           "text": "What is Lana watching on TV?",
-          "answer": "She's watching The Crown about the Royal family."
+          "answer": "She's watching The Crown about the Royal family.",
+          "hint": "Recall the series about Britain's monarchy."
         },
         {
           "number": 2,
           "text": "What's Jerry watching?",
-          "answer": "He's watching Drive to Survive about Formula One racing."
+          "answer": "He's watching Drive to Survive about Formula One racing.",
+          "hint": "Recall the series about Formula One racing."
         },
         {
           "number": 3,
           "text": "How long does it take Jerry to watch one season of Drive to Survive?",
-          "answer": "He watched it in one weekend."
+          "answer": "He watched it in one weekend.",
+          "hint": "Find the short period Jerry needed to finish the whole season."
         },
         {
           "number": 4,
           "text": "What kind of things does Jerry like to watch on TV?",
-          "answer": "He likes watching sports things."
+          "answer": "He likes watching sports things.",
+          "hint": "Think of the common theme of Jerry's preferred programs."
         }
       ]
     },
@@ -16794,37 +17073,44 @@
         {
           "number": 1,
           "text": "I can ____ around 7:00.",
-          "answer": "pick you up"
+          "answer": "pick you up",
+          "hint": "Think of collecting someone by car."
         },
         {
           "number": 2,
           "text": "The weather looks kind of ____. Why don't we reschedule?",
-          "answer": "iffy"
+          "answer": "iffy",
+          "hint": "Use an informal adjective meaning uncertain or questionable."
         },
         {
           "number": 3,
           "text": "Don't worry about that test. It's ____.",
-          "answer": "a piece of cake"
+          "answer": "a piece of cake",
+          "hint": "Use a food-related idiom meaning very easy."
         },
         {
           "number": 4,
           "text": "I'm so ____ these days.",
-          "answer": "out of shape"
+          "answer": "out of shape",
+          "hint": "Think of being physically unfit."
         },
         {
           "number": 5,
           "text": "It's ____, hasn't it?",
-          "answer": "been a while"
+          "answer": "been a while",
+          "hint": "Use an expression meaning a considerable period has passed."
         },
         {
           "number": 6,
           "text": "Why don't we ____ from Subway and take it to the park?",
-          "answer": "grab something to eat"
+          "answer": "grab something to eat",
+          "hint": "Think of buying a quick meal or snack."
         },
         {
           "number": 7,
           "text": "I'm planning on going, ____.",
-          "answer": "rain or shine"
+          "answer": "rain or shine",
+          "hint": "Use an expression meaning regardless of the weather."
         }
       ]
     },
@@ -16844,37 +17130,44 @@
         {
           "number": 1,
           "text": "I'll ____, okay? I don't know that many details yet.",
-          "answer": "keep you updated"
+          "answer": "keep you updated",
+          "hint": "Think of promising to continue giving someone new information."
         },
         {
           "number": 2,
           "text": "____ is the biggest issue facing our world today.",
-          "answer": "global warming"
+          "answer": "global warming",
+          "hint": "Name the long-term increase in the Earth's average temperature."
         },
         {
           "number": 3,
           "text": "If I can be ____ with you, you need to take a shower every day.",
-          "answer": "brutally honest"
+          "answer": "brutally honest",
+          "hint": "Think of being so direct and truthful that it may hurt someone's feelings."
         },
         {
           "number": 4,
           "text": "Do you want to ____ after work? There's that new Italian place.",
-          "answer": "grab dinner"
+          "answer": "grab dinner",
+          "hint": "Use a casual expression for having an evening meal."
         },
         {
           "number": 5,
           "text": "Let's get this leak fixed ____. It could turn into a way bigger problem.",
-          "answer": "as soon as possible"
+          "answer": "as soon as possible",
+          "hint": "Think of doing something at the earliest opportunity."
         },
         {
           "number": 6,
           "text": "My ____ changed during Covid. I started to cook at home way more.",
-          "answer": "eating habits"
+          "answer": "eating habits",
+          "hint": "Name your usual routines and patterns around food."
         },
         {
           "number": 7,
           "text": "I had ____ for that new James Bond movie but it was kind of boring.",
-          "answer": "high hopes"
+          "answer": "high hopes",
+          "hint": "Think of strong expectations that something will be very good."
         }
       ],
       "wordBank": [
@@ -16905,32 +17198,38 @@
         {
           "number": 1,
           "text": "Why don't we go out for dinner? It's ____.",
-          "answer": "my treat"
+          "answer": "my treat",
+          "hint": "Use a short expression offering to pay for someone else's meal."
         },
         {
           "number": 2,
           "text": "I think I'm going to buy a ____. I need it for my new business.",
-          "answer": "truck"
+          "answer": "truck",
+          "hint": "Name a large vehicle useful for carrying goods for a business."
         },
         {
           "number": 3,
           "text": "What do you think is a ____ punishment for that?",
-          "answer": "fair"
+          "answer": "fair",
+          "hint": "Use an adjective meaning just and reasonable."
         },
         {
           "number": 4,
           "text": "Hey, it's ____. Don't even worry about that.",
-          "answer": "all good"
+          "answer": "all good",
+          "hint": "Use an informal expression saying that everything is okay."
         },
         {
           "number": 5,
           "text": "What are you doing ____? Why don't we catch a movie?",
-          "answer": "next weekend"
+          "answer": "next weekend",
+          "hint": "Refer to the coming Saturday and Sunday."
         },
         {
           "number": 6,
           "text": "I have to ____. My landlord sold this place.",
-          "answer": "move"
+          "answer": "move",
+          "hint": "Think of changing the place where you live."
         }
       ]
     },
@@ -16949,42 +17248,50 @@
         {
           "number": 1,
           "text": "The kids have been ____ so late during summer vacation.",
-          "answer": "staying up"
+          "answer": "staying up",
+          "hint": "Use an -ing expression meaning going to bed later than usual."
         },
         {
           "number": 2,
           "text": "I'll ____ some Thai on my way home from work.",
-          "answer": "pick up"
+          "answer": "pick up",
+          "hint": "Think of collecting prepared food to take home."
         },
         {
           "number": 3,
           "text": "I ____ that. I just wanted to check and see if you'd changed your mind.",
-          "answer": "figured on"
+          "answer": "figured on",
+          "hint": "Use a past-tense phrasal verb meaning expected or planned for something."
         },
         {
           "number": 4,
           "text": "Can you help me ____ my new dresser today?",
-          "answer": "put together"
+          "answer": "put together",
+          "hint": "Think of assembling separate parts into a finished item."
         },
         {
           "number": 5,
           "text": "Let's ____ some time to chill out this weekend. We've been so busy these days.",
-          "answer": "build in"
+          "answer": "build in",
+          "hint": "Use a phrasal verb meaning to deliberately include something in your schedule."
         },
         {
           "number": 6,
           "text": "____ early is so difficult for me.",
-          "answer": "getting up"
+          "answer": "getting up",
+          "hint": "Use an -ing expression meaning leaving your bed in the morning."
         },
         {
           "number": 7,
           "text": "Let's ____ the stew for dinner.",
-          "answer": "heat up"
+          "answer": "heat up",
+          "hint": "Think of making cooked food hot again."
         },
         {
           "number": 8,
           "text": "Let's ____ the bed and vacuum all the dust bunnies.",
-          "answer": "pull out"
+          "answer": "pull out",
+          "hint": "Use an expression meaning to move something outward from its current position."
         }
       ]
     },
@@ -17003,17 +17310,20 @@
         {
           "number": 1,
           "text": "Who wants to get a pizza and who wants to cook at home?",
-          "answer": "Ted wants to get pizza and Tony wants to cook at home."
+          "answer": "Ted wants to get pizza and Tony wants to cook at home.",
+          "hint": "Identify each person's different preference for the evening meal."
         },
         {
           "number": 2,
           "text": "Why does Tony think they should cook at home?",
-          "answer": "He thinks they should cook at home because they spend so much money on take-out food."
+          "answer": "He thinks they should cook at home because they spend so much money on take-out food.",
+          "hint": "Recall their concern about the cost of meals bought elsewhere."
         },
         {
           "number": 3,
           "text": "What is Tony going to cook?",
-          "answer": "He's going to make a sweet & sour stir-fry with tofu and vegetables."
+          "answer": "He's going to make a sweet & sour stir-fry with tofu and vegetables.",
+          "hint": "Recall the flavor, cooking method, and main ingredients of Tony's planned dish."
         }
       ]
     },
@@ -17032,37 +17342,44 @@
         {
           "number": 1,
           "text": "I had a terrible day. First, I got my car broken into and then ____, I lost my keys.",
-          "answer": "later that evening"
+          "answer": "later that evening",
+          "hint": "Refer to a subsequent point during the same night-time period."
         },
         {
           "number": 2,
           "text": "____, everyone is in such a rush that we rarely eat together.",
-          "answer": "at breakfast"
+          "answer": "at breakfast",
+          "hint": "Think of the time when people eat their first meal of the day."
         },
         {
           "number": 3,
           "text": "I hang out with my coworkers ____.",
-          "answer": "at lunch"
+          "answer": "at lunch",
+          "hint": "Refer to the midday meal period."
         },
         {
           "number": 4,
           "text": "I ____ drink alcohol, maybe just after playing golf.",
-          "answer": "seldom"
+          "answer": "seldom",
+          "hint": "Use an adverb meaning not often."
         },
         {
           "number": 5,
           "text": "I like to exercise ____.",
-          "answer": "every day"
+          "answer": "every day",
+          "hint": "Think of a habit repeated daily."
         },
         {
           "number": 6,
           "text": "____, I'm getting ready to go to work. Can I call you later?",
-          "answer": "at this very moment"
+          "answer": "at this very moment",
+          "hint": "Use an emphatic expression meaning right now."
         },
         {
           "number": 7,
           "text": "____ you stop complaining about this, you could already be done!",
-          "answer": "by the time"
+          "answer": "by the time",
+          "hint": "Think of a linking expression referring to the moment another action happens."
         }
       ]
     },
@@ -17081,17 +17398,20 @@
         {
           "number": 1,
           "text": "Who currently does most of the chores?",
-          "answer": "Bob does most of the chores."
+          "answer": "Bob does most of the chores.",
+          "hint": "Identify the person who carries out the larger share of household tasks."
         },
         {
           "number": 2,
           "text": "What does Min-Sun propose?",
-          "answer": "He suggests that they make a chore chart."
+          "answer": "He suggests that they make a chore chart.",
+          "hint": "Recall the proposed tool for organizing and dividing household responsibilities."
         },
         {
           "number": 3,
           "text": "Why doesn't Min-Sun do enough chores?",
-          "answer": "He doesn't do that many chores because he's busy at work and just wants to relax at home."
+          "answer": "He doesn't do that many chores because he's busy at work and just wants to relax at home.",
+          "hint": "Recall how work affects Min-Sun's energy and plans at home."
         }
       ]
     },
@@ -17110,37 +17430,44 @@
         {
           "number": 1,
           "text": "Let's hire a ____. I'm a bit nervous about doing this alone.",
-          "answer": "guide"
+          "answer": "guide",
+          "hint": "Name a person hired to lead or advise you through an unfamiliar process."
         },
         {
           "number": 2,
           "text": "____ is terrible. Why don't we move closer to work?",
-          "answer": "commuting"
+          "answer": "commuting",
+          "hint": "Use the -ing noun for regular travel between home and work."
         },
         {
           "number": 3,
           "text": "I need to ____ to get ready to move.",
-          "answer": "downsize"
+          "answer": "downsize",
+          "hint": "Think of reducing the number of possessions you have before moving."
         },
         {
           "number": 4,
           "text": "____ is so much easier than having lots of stuff. I just borrow whatever I need.",
-          "answer": "simplicity"
+          "answer": "simplicity",
+          "hint": "Name the quality of living with fewer things and less complication."
         },
         {
           "number": 5,
           "text": "Don't forget to ____ that you have a coupon before you order.",
-          "answer": "mention"
+          "answer": "mention",
+          "hint": "Use a verb meaning to briefly bring a fact to someone's attention."
         },
         {
           "number": 6,
           "text": "What's the best way to get ____? I think parking is too expensive there.",
-          "answer": "downtown"
+          "answer": "downtown",
+          "hint": "Name the central area of a city."
         },
         {
           "number": 7,
           "text": "I want to ____ my brother's wife but she's just so annoying.",
-          "answer": "embrace"
+          "answer": "embrace",
+          "hint": "Think of accepting someone warmly despite difficulties."
         }
       ]
     },
@@ -17159,17 +17486,20 @@
         {
           "number": 1,
           "text": "Why does Bob live so far away from school?",
-          "answer": "He lives so far away because it's free."
+          "answer": "He lives so far away because it's free.",
+          "hint": "Recall the financial advantage of Bob's current living arrangement."
         },
         {
           "number": 2,
           "text": "How long does it take Bob to get to school?",
-          "answer": "It takes him two hours."
+          "answer": "It takes him two hours.",
+          "hint": "Find the total travel duration to school."
         },
         {
           "number": 3,
           "text": "How is Bob feeling today?",
-          "answer": "He's very tired."
+          "answer": "He's very tired.",
+          "hint": "Think of how his lengthy journey affects his energy."
         }
       ]
     },
@@ -17188,37 +17518,44 @@
         {
           "number": 1,
           "text": "I want this car to ____.",
-          "answer": "sparkle"
+          "answer": "sparkle",
+          "hint": "Use a verb meaning to shine brightly and look extremely clean."
         },
         {
           "number": 2,
           "text": "I hate being so ____. I don't know how to solve this problem though.",
-          "answer": "disorganized"
+          "answer": "disorganized",
+          "hint": "Describe someone who has difficulty keeping things orderly."
         },
         {
           "number": 3,
           "text": "Those strawberries are ____. Don't eat them.",
-          "answer": "fuzzy"
+          "answer": "fuzzy",
+          "hint": "Describe fruit covered with soft, fine growth caused by mold."
         },
         {
           "number": 4,
           "text": "I ____ the bathtub but it's still not that clean. Do you have any advice?",
-          "answer": "scrubbed"
+          "answer": "scrubbed",
+          "hint": "Use the past form of a verb meaning to rub hard while cleaning."
         },
         {
           "number": 5,
           "text": "I want to clean the garage ____.",
-          "answer": "this weekend"
+          "answer": "this weekend",
+          "hint": "Refer to the coming Saturday and Sunday."
         },
         {
           "number": 6,
           "text": "My car is so ____. I just throw my trash on the seat next to me.",
-          "answer": "filthy"
+          "answer": "filthy",
+          "hint": "Use an adjective meaning extremely dirty."
         },
         {
           "number": 7,
           "text": "I want to ____ all the weeds in the garden tonight.",
-          "answer": "take care of"
+          "answer": "take care of",
+          "hint": "Think of dealing with a task that needs attention."
         }
       ]
     },
@@ -17237,17 +17574,20 @@
         {
           "number": 1,
           "text": "How did Kerry get hurt?",
-          "answer": "He fell off his bike."
+          "answer": "He fell off his bike.",
+          "hint": "Recall the vehicle Kerry was riding and what happened to him."
         },
         {
           "number": 2,
           "text": "Were Kerry's injuries serious?",
-          "answer": "No, they weren't"
+          "answer": "No, they weren't",
+          "hint": "Distinguish the actual injuries from the more serious possibilities."
         },
         {
           "number": 3,
           "text": "Did the doctors think Kerry might have serious injuries?",
-          "answer": "Yes, they did. They thought he might have bleeding in his brain or broken bones."
+          "answer": "Yes, they did. They thought he might have bleeding in his brain or broken bones.",
+          "hint": "Recall what the medical team feared might be damaged or broken."
         }
       ]
     },
@@ -17266,47 +17606,56 @@
         {
           "number": 1,
           "text": "You'll be done ____ if you concentrate.",
-          "answer": "in no time"
+          "answer": "in no time",
+          "hint": "Use an expression meaning very quickly."
         },
         {
           "number": 2,
           "text": "I'm lucky—I work all ____ next month.",
-          "answer": "days"
+          "answer": "days",
+          "hint": "Name the daytime work periods, contrasted with overnight ones."
         },
         {
           "number": 3,
           "text": "____, I considered joining the military.",
-          "answer": "at one time"
+          "answer": "at one time",
+          "hint": "Use an expression meaning at some point in the past."
         },
         {
           "number": 4,
           "text": "That guy always ____ because he travels so much.",
-          "answer": "loses track of days"
+          "answer": "loses track of days",
+          "hint": "Think of being unable to remember which date or weekday it is."
         },
         {
           "number": 5,
           "text": "I ____ have to tell my kids to clean up their dishes.",
-          "answer": "constantly"
+          "answer": "constantly",
+          "hint": "Use an adverb meaning all the time or repeatedly."
         },
         {
           "number": 6,
           "text": "____, did you get to eat a lot of junk food?",
-          "answer": "when you were growing up"
+          "answer": "when you were growing up",
+          "hint": "Refer to the period of your childhood and development."
         },
         {
           "number": 7,
           "text": "I ____ smoke.",
-          "answer": "never"
+          "answer": "never",
+          "hint": "Use an adverb meaning not at any time."
         },
         {
           "number": 8,
           "text": "I know it's weird, but I prefer the ____.",
-          "answer": "night shift"
+          "answer": "night shift",
+          "hint": "Name a period of work performed during the hours of darkness."
         },
         {
           "number": 9,
           "text": "I have to get a ____ injection for two months.",
-          "answer": "weekly"
+          "answer": "weekly",
+          "hint": "Use an adjective meaning once every seven days."
         }
       ]
     },
@@ -17325,17 +17674,20 @@
         {
           "number": 1,
           "text": "Why are Sara and Lucy bored?",
-          "answer": "They are bored because their activities got cancelled because of Covid-19."
+          "answer": "They are bored because their activities got cancelled because of Covid-19.",
+          "hint": "Recall which restrictions caused their usual activities to stop."
         },
         {
           "number": 2,
           "text": "What are they going to do together?",
-          "answer": "They are going to go for walks at night together."
+          "answer": "They are going to go for walks at night together.",
+          "hint": "Identify the evening physical activity they agree to share."
         },
         {
           "number": 3,
           "text": "When is their first walk?",
-          "answer": "Their first walk is tomorrow at 7:30."
+          "answer": "Their first walk is tomorrow at 7:30.",
+          "hint": "Find the day and exact starting time of their first outing."
         }
       ]
     },
@@ -17354,47 +17706,56 @@
         {
           "number": 1,
           "text": "I know you're not going to like this but we need to ____ on overtime this month.",
-          "answer": "double down"
+          "answer": "double down",
+          "hint": "Use an expression meaning to increase your commitment or effort."
         },
         {
           "number": 2,
           "text": "We have to ____ if we're going to survive.",
-          "answer": "tighten our belts"
+          "answer": "tighten our belts",
+          "hint": "Use a clothing-related idiom meaning to reduce spending."
         },
         {
           "number": 3,
           "text": "Please ____ your smoking. It looks terrible for customers to see you doing that.",
-          "answer": "put a lid on"
+          "answer": "put a lid on",
+          "hint": "Think of stopping or controlling an unwanted behavior."
         },
         {
           "number": 4,
           "text": "I know we're a bit ____ but I hope we can recover.",
-          "answer": "down on our luck"
+          "answer": "down on our luck",
+          "hint": "Use an idiom meaning currently experiencing bad fortune."
         },
         {
           "number": 5,
           "text": "We're going to ____ if we don't fire some people.",
-          "answer": "go bankrupt"
+          "answer": "go bankrupt",
+          "hint": "Think of becoming unable to pay your debts."
         },
         {
           "number": 6,
           "text": "I want this to be ____. Everyone needs to understand how important this is.",
-          "answer": "crystal clear"
+          "answer": "crystal clear",
+          "hint": "Use an expression meaning completely easy to understand."
         },
         {
           "number": 7,
           "text": "That's my ____! Get back to work.",
-          "answer": "pep talk"
+          "answer": "pep talk",
+          "hint": "Name a short speech intended to encourage people."
         },
         {
           "number": 8,
           "text": "I know you think I have a ____ but I don't.",
-          "answer": "card up my sleeve"
+          "answer": "card up my sleeve",
+          "hint": "Use a card-game idiom meaning a secret advantage or plan."
         },
         {
           "number": 9,
           "text": "He's struggling to ____ with that job. He doesn't get enough hours.",
-          "answer": "make ends meet"
+          "answer": "make ends meet",
+          "hint": "Think of earning enough to cover basic living expenses."
         }
       ]
     },
@@ -17413,27 +17774,32 @@
         {
           "number": 1,
           "text": "You'll get into Harvard. It's a ____ I think.",
-          "answer": "sure thing"
+          "answer": "sure thing",
+          "hint": "Think of something that is almost certain to happen."
         },
         {
           "number": 2,
           "text": "Drink some water too if you don't want to have a ____.",
-          "answer": "hangover"
+          "answer": "hangover",
+          "hint": "Name the unpleasant condition experienced after drinking too much alcohol."
         },
         {
           "number": 3,
           "text": "It's been ____. Let's get lunch soon.",
-          "answer": "too long"
+          "answer": "too long",
+          "hint": "Think of a period that has lasted longer than it should."
         },
         {
           "number": 4,
           "text": "I have a ____ cold and can't come.",
-          "answer": "terrible"
+          "answer": "terrible",
+          "hint": "Use an adjective meaning very bad or severe."
         },
         {
           "number": 5,
           "text": "I need to ____ before we go out tonight.",
-          "answer": "catch some Z's"
+          "answer": "catch some Z's",
+          "hint": "Use an informal expression meaning to get some sleep."
         }
       ]
     },
@@ -17452,17 +17818,20 @@
         {
           "number": 1,
           "text": "How is Mabel feeling today?",
-          "answer": "She has sore legs."
+          "answer": "She has sore legs.",
+          "hint": "Recall which part of Mabel's body hurts."
         },
         {
           "number": 2,
           "text": "Did Mabel go for a long walk yesterday?",
-          "answer": "Yes, she did."
+          "answer": "Yes, she did.",
+          "hint": "Check whether she recently did an activity that could explain the discomfort."
         },
         {
           "number": 3,
           "text": "Why was Mabel reluctant to ask for a ride to the mall?",
-          "answer": "She was reluctant because she doesn't like to bother anyone."
+          "answer": "She was reluctant because she doesn't like to bother anyone.",
+          "hint": "Think about her feelings toward asking other people for help."
         }
       ]
     },
@@ -17481,37 +17850,44 @@
         {
           "number": 1,
           "text": "Do you want to catch ____ with me on Friday night?",
-          "answer": "a flick"
+          "answer": "a flick",
+          "hint": "Use an informal expression for watching a film."
         },
         {
           "number": 2,
           "text": "Turn up the ____. It's so hot in here.",
-          "answer": "air conditioning"
+          "answer": "air conditioning",
+          "hint": "Name the system that cools the air indoors."
         },
         {
           "number": 3,
           "text": "There's going to be a ____ next week.",
-          "answer": "heat wave"
+          "answer": "heat wave",
+          "hint": "Name a period of unusually high temperatures."
         },
         {
           "number": 4,
           "text": "Jump in the lake. It's very ____.",
-          "answer": "refreshing"
+          "answer": "refreshing",
+          "hint": "Describe something that makes you feel cooler and more energetic."
         },
         {
           "number": 5,
           "text": "It's ____ in the car. Can you roll down the windows?",
-          "answer": "boiling"
+          "answer": "boiling",
+          "hint": "Use a temperature-related adjective meaning extremely hot."
         },
         {
           "number": 6,
           "text": "I got ____ when I went hiking in July.",
-          "answer": "heatstroke"
+          "answer": "heatstroke",
+          "hint": "Name the dangerous condition caused by the body overheating."
         },
         {
           "number": 7,
           "text": "I think it costs around ten ____.",
-          "answer": "bucks"
+          "answer": "bucks",
+          "hint": "Use a casual word for dollars."
         }
       ]
     },
@@ -17531,47 +17907,56 @@
         {
           "number": 1,
           "text": "I'm feeling ____. I won't be able to come to class today.",
-          "answer": "under the weather"
+          "answer": "under the weather",
+          "hint": "Use an idiom meaning slightly ill or unwell."
         },
         {
           "number": 2,
           "text": "You've been ____ lately. Don't you think you need a vacation?",
-          "answer": "working your fingers to the bone"
+          "answer": "working your fingers to the bone",
+          "hint": "Use an idiom describing someone who has been laboring extremely hard."
         },
         {
           "number": 3,
           "text": "Let's ____ about this next weekend.",
-          "answer": "touch base"
+          "answer": "touch base",
+          "hint": "Think of contacting someone briefly to exchange updates."
         },
         {
           "number": 4,
           "text": "The ____ was that he was 2 hours late for dinner.",
-          "answer": "last straw"
+          "answer": "last straw",
+          "hint": "Name the final unpleasant event that makes a situation intolerable."
         },
         {
           "number": 5,
           "text": "My keys seem to have ____.",
-          "answer": "vanished into thin air"
+          "answer": "vanished into thin air",
+          "hint": "Use an expression meaning disappeared completely without explanation."
         },
         {
           "number": 6,
           "text": "I'd love to hang out but I'll need to ____.",
-          "answer": "take a rain check"
+          "answer": "take a rain check",
+          "hint": "Think of politely postponing an invitation until another occasion."
         },
         {
           "number": 7,
           "text": "This is only ____. There are way bigger problems at that company.",
-          "answer": "the tip of the iceberg"
+          "answer": "the tip of the iceberg",
+          "hint": "Use an iceberg-related idiom for a small visible part of a much larger problem."
         },
         {
           "number": 8,
           "text": "Just ____. Nothing is going to change.",
-          "answer": "throw in the towel"
+          "answer": "throw in the towel",
+          "hint": "Use a boxing-related idiom meaning to admit defeat."
         },
         {
           "number": 9,
           "text": "____! Get back to work.",
-          "answer": "time is money"
+          "answer": "time is money",
+          "hint": "Think of a saying that treats each wasted minute as a financial loss."
         }
       ],
       "wordBank": [
@@ -17601,17 +17986,20 @@
         {
           "number": 1,
           "text": "Who doesn't usually go to fancy coffee shops?",
-          "answer": "Cameron rarely goes to fancy coffee shops."
+          "answer": "Cameron rarely goes to fancy coffee shops.",
+          "hint": "Identify the person who finds this kind of cafe unusual."
         },
         {
           "number": 2,
           "text": "What is Cameron getting to eat and drink?",
-          "answer": "She's getting a latte with oat milk and a salad."
+          "answer": "She's getting a latte with oat milk and a salad.",
+          "hint": "Recall the drink, its milk substitute, and the food Cameron orders."
         },
         {
           "number": 3,
           "text": "Has Marnie been to this coffee shop before?",
-          "answer": "Yes, she has been there before."
+          "answer": "Yes, she has been there before.",
+          "hint": "Find whether this is Marnie's first visit or a return visit."
         }
       ]
     },
@@ -17630,37 +18018,44 @@
         {
           "number": 1,
           "text": "It's been ____. He should be done by now.",
-          "answer": "long enough"
+          "answer": "long enough",
+          "hint": "Think of a duration that is sufficient for a task to be completed."
         },
         {
           "number": 2,
           "text": "____, I used to drink a lot but I've cut back now.",
-          "answer": "in the past"
+          "answer": "in the past",
+          "hint": "Refer to an earlier period of someone's life."
         },
         {
           "number": 3,
           "text": "The Internet was invented during the ____.",
-          "answer": "20th century"
+          "answer": "20th century",
+          "hint": "Name the century covering the years 1901 to 2000."
         },
         {
           "number": 4,
           "text": "Oh, that's ____. I haven't even thought about it yet.",
-          "answer": "way off in the future"
+          "answer": "way off in the future",
+          "hint": "Think of a point that is still a very long time from now."
         },
         {
           "number": 5,
           "text": "I was born ____.",
-          "answer": "in the 40s"
+          "answer": "in the 40s",
+          "hint": "Refer to the decade beginning with the year 1940."
         },
         {
           "number": 6,
           "text": "In the ____, kids don't know what life was like before the Internet.",
-          "answer": "21st century"
+          "answer": "21st century",
+          "hint": "Name the century covering the years 2001 to 2100."
         },
         {
           "number": 7,
           "text": "I hope to be retired ____.",
-          "answer": "in 20 years' time"
+          "answer": "in 20 years' time",
+          "hint": "Refer to a point two decades from now."
         }
       ]
     },
@@ -17679,32 +18074,38 @@
         {
           "number": 1,
           "text": "My kids are amazing. They're always thinking of ways to save the ____.",
-          "answer": "environment"
+          "answer": "environment",
+          "hint": "Name the natural world that people want to protect."
         },
         {
           "number": 2,
           "text": "Ted! Take out the ____. It's your chore this week.",
-          "answer": "trash"
+          "answer": "trash",
+          "hint": "Use a general word for unwanted household waste."
         },
         {
           "number": 3,
           "text": "I know that ____ can be recycled but I think it takes a lot of energy to do that.",
-          "answer": "tin cans"
+          "answer": "tin cans",
+          "hint": "Name metal containers commonly used for preserved food."
         },
         {
           "number": 4,
           "text": "Please ____ this instead of throwing it into the garbage.",
-          "answer": "recycle"
+          "answer": "recycle",
+          "hint": "Use a verb meaning to process used material so it can be used again."
         },
         {
           "number": 5,
           "text": "Do you have any old ____? I'm making kimchi and need some.",
-          "answer": "jars"
+          "answer": "jars",
+          "hint": "Name glass containers with wide openings and lids."
         },
         {
           "number": 6,
           "text": "How can we stop getting so many ____? I'm tired of them.",
-          "answer": "flyers"
+          "answer": "flyers",
+          "hint": "Name printed advertising sheets delivered to homes."
         }
       ]
     },
@@ -17723,37 +18124,44 @@
         {
           "number": 1,
           "text": "Let's ____ next week, okay?",
-          "answer": "catch up"
+          "answer": "catch up",
+          "hint": "Think of meeting to share news after some time apart."
         },
         {
           "number": 2,
           "text": "____ with you these days?",
-          "answer": "what's up"
+          "answer": "what's up",
+          "hint": "Use a casual question asking what has been happening in someone's life."
         },
         {
           "number": 3,
           "text": "I'm so happy that I ____.",
-          "answer": "ran into you"
+          "answer": "ran into you",
+          "hint": "Use the past form of an expression meaning met someone by chance."
         },
         {
           "number": 4,
           "text": "I ____. I need to get Tim in 10 minutes.",
-          "answer": "gotta run"
+          "answer": "gotta run",
+          "hint": "Use a very informal expression saying you need to leave immediately."
         },
         {
           "number": 5,
           "text": "Can you ____ some milk on your way home?",
-          "answer": "pick up"
+          "answer": "pick up",
+          "hint": "Think of buying or collecting something while you are out."
         },
         {
           "number": 6,
           "text": "Oh wow. ____, hasn't it?",
-          "answer": "it's been a while"
+          "answer": "it's been a while",
+          "hint": "Use an expression acknowledging that you have not met for some time."
         },
         {
           "number": 7,
           "text": "I need to do some ____ for the party tomorrow.",
-          "answer": "last-minute shopping"
+          "answer": "last-minute shopping",
+          "hint": "Think of buying things just before the event they are needed for."
         }
       ]
     },
@@ -17772,17 +18180,20 @@
         {
           "number": 1,
           "text": "What kind of natural disaster are they talking about?",
-          "answer": "They are talking about a typhoon."
+          "answer": "They are talking about a typhoon.",
+          "hint": "Identify the type of powerful tropical storm being discussed."
         },
         {
           "number": 2,
           "text": "Where was the typhoon? Is that where they're living?",
-          "answer": "It was in Japan. They are not living there."
+          "answer": "It was in Japan. They are not living there.",
+          "hint": "Name the country affected and compare it with their own location."
         },
         {
           "number": 3,
           "text": "How strong is the wind?",
-          "answer": "There are very, very strong winds (almost 300 km/h)."
+          "answer": "There are very, very strong winds (almost 300 km/h).",
+          "hint": "Find the approximate speed of the very strong air movement."
         }
       ]
     },
@@ -17801,42 +18212,50 @@
         {
           "number": 1,
           "text": "____. Break-ups are so difficult.",
-          "answer": "I feel your pain"
+          "answer": "I feel your pain",
+          "hint": "Use an expression showing that you understand someone else's difficulty."
         },
         {
           "number": 2,
           "text": "Let's pass these ____.",
-          "answer": "slow walkers"
+          "answer": "slow walkers",
+          "hint": "Think of pedestrians who move at a frustratingly low speed."
         },
         {
           "number": 3,
           "text": "Is there ____ for the French Open? I don't have cable TV.",
-          "answer": "live streaming"
+          "answer": "live streaming",
+          "hint": "Name the online broadcasting of an event as it happens."
         },
         {
           "number": 4,
           "text": "Watch out for that big crack on the ____.",
-          "answer": "sidewalk"
+          "answer": "sidewalk",
+          "hint": "Name the paved pedestrian path beside a road."
         },
         {
           "number": 5,
           "text": "One of my ____ is people who are late.",
-          "answer": "pet peeves"
+          "answer": "pet peeves",
+          "hint": "Think of minor things that especially annoy you."
         },
         {
           "number": 6,
           "text": "I have some delicious ice cream in my freezer and I'm trying to ____ eating all of it in one day!",
-          "answer": "resist"
+          "answer": "resist",
+          "hint": "Use a verb meaning to stop yourself from giving in to temptation."
         },
         {
           "number": 7,
           "text": "Did you see that new ____ for Air Jordans?",
-          "answer": "ad"
+          "answer": "ad",
+          "hint": "Use a short word for a promotional message."
         },
         {
           "number": 8,
           "text": "I'm ____ at my job even though I don't like it because unemployment is so high.",
-          "answer": "stuck"
+          "answer": "stuck",
+          "hint": "Describe being unable to leave or change an unpleasant situation."
         }
       ]
     },
@@ -17855,17 +18274,20 @@
         {
           "number": 1,
           "text": "Who doesn't like Shakira?",
-          "answer": "Joni doesn't like Shakira."
+          "answer": "Joni doesn't like Shakira.",
+          "hint": "Identify the person who is not a fan of that singer."
         },
         {
           "number": 2,
           "text": "What was Joni doing during the halftime show?",
-          "answer": "Joni was making snacks during the halftime show."
+          "answer": "Joni was making snacks during the halftime show.",
+          "hint": "Recall the food-related task Joni did while the performance was on."
         },
         {
           "number": 3,
           "text": "Who really likes to eat snacks while watching the Superbowl?",
-          "answer": "They both do."
+          "answer": "They both do.",
+          "hint": "Decide whether just one person or both people enjoy that game-day habit."
         }
       ]
     },
@@ -17884,37 +18306,44 @@
         {
           "number": 1,
           "text": "I'm not sure about tennis yet. I'm just ____.",
-          "answer": "getting into it"
+          "answer": "getting into it",
+          "hint": "Use an -ing expression meaning starting to become interested in an activity."
         },
         {
           "number": 2,
           "text": "You can't keep ____.",
-          "answer": "burning the candle at both ends"
+          "answer": "burning the candle at both ends",
+          "hint": "Use a candle-related idiom for exhausting yourself by doing too much."
         },
         {
           "number": 3,
           "text": "Where are you ____ for vacation?",
-          "answer": "headed to"
+          "answer": "headed to",
+          "hint": "Think of traveling toward a particular destination."
         },
         {
           "number": 4,
           "text": "I don't want to spend a lot of money. What about a ____?",
-          "answer": "staycation"
+          "answer": "staycation",
+          "hint": "Name a holiday spent at home or close to home."
         },
         {
           "number": 5,
           "text": "I've ____ the first two weeks of August.",
-          "answer": "booked off"
+          "answer": "booked off",
+          "hint": "Think of arranging to be absent from work on particular dates."
         },
         {
           "number": 6,
           "text": "I ____ but what do I have to show for it?",
-          "answer": "work like a dog"
+          "answer": "work like a dog",
+          "hint": "Use an animal-related idiom meaning to labor extremely hard."
         },
         {
           "number": 7,
           "text": "I plan to just ____ at home this weekend.",
-          "answer": "chill out"
+          "answer": "chill out",
+          "hint": "Use an informal expression meaning to relax."
         }
       ]
     },
@@ -17933,32 +18362,38 @@
         {
           "number": 1,
           "text": "Where's the ____? I want to get a soda and some popcorn.",
-          "answer": "concession"
+          "answer": "concession",
+          "hint": "Name the cinema counter where drinks and snacks are sold."
         },
         {
           "number": 2,
           "text": "I have tickets for the 3:00 ____.",
-          "answer": "showing"
+          "answer": "showing",
+          "hint": "Name a scheduled screening of a film."
         },
         {
           "number": 3,
           "text": "Would you prefer a window seat or an ____?",
-          "answer": "aisle seat"
+          "answer": "aisle seat",
+          "hint": "Think of the seat beside the walkway rather than beside the window."
         },
         {
           "number": 4,
           "text": "Let's check if they have some ____. It's probably cheaper.",
-          "answer": "combos"
+          "answer": "combos",
+          "hint": "Name deals that bundle several items together for one price."
         },
         {
           "number": 5,
           "text": "Do you have a ____ for where we go for dinner?",
-          "answer": "preference"
+          "answer": "preference",
+          "hint": "Think of a stronger liking for one option than another."
         },
         {
           "number": 6,
           "text": "Let's see if there are some seats still ____. It's kind of last-minute but you never know.",
-          "answer": "available"
+          "answer": "available",
+          "hint": "Use an adjective meaning not already taken and ready to be used."
         }
       ]
     },
@@ -17977,37 +18412,44 @@
         {
           "number": 1,
           "text": "If we work together, we'll be done ____.",
-          "answer": "in no time at all"
+          "answer": "in no time at all",
+          "hint": "Use an emphatic expression meaning very quickly."
         },
         {
           "number": 2,
           "text": "The hurricane caused some ____.",
-          "answer": "serious damage"
+          "answer": "serious damage",
+          "hint": "Think of major harm caused to buildings or property."
         },
         {
           "number": 3,
           "text": "That daredevil must have ____.",
-          "answer": "nine lives"
+          "answer": "nine lives",
+          "hint": "Use a cat-related expression about repeatedly surviving dangerous situations."
         },
         {
           "number": 4,
           "text": "It's a small ____ that he didn't fail the course.",
-          "answer": "miracle"
+          "answer": "miracle",
+          "hint": "Name an extraordinary, unexpectedly fortunate event."
         },
         {
           "number": 5,
           "text": "My dad ____ to the ER yesterday. It turns out he had a heart attack.",
-          "answer": "got rushed"
+          "answer": "got rushed",
+          "hint": "Think of being transported somewhere urgently in a medical emergency."
         },
         {
           "number": 6,
           "text": "My son ____ from the swing and broke his arm.",
-          "answer": "took a tumble"
+          "answer": "took a tumble",
+          "hint": "Use a past-tense expression meaning fell down."
         },
         {
           "number": 7,
           "text": "I only have some small ____ and bruises.",
-          "answer": "scrapes"
+          "answer": "scrapes",
+          "hint": "Name minor skin injuries caused by rubbing against a rough surface."
         }
       ]
     },
@@ -18026,17 +18468,20 @@
         {
           "number": 1,
           "text": "What did Lucy think about Italy?",
-          "answer": "She loved it."
+          "answer": "She loved it.",
+          "hint": "Recall Lucy's overall opinion of the trip."
         },
         {
           "number": 2,
           "text": "What things does Lucy mention liking?",
-          "answer": "She liked the food and how beautiful it was."
+          "answer": "She liked the food and how beautiful it was.",
+          "hint": "Recall the two aspects of the country that impressed Lucy."
         },
         {
           "number": 3,
           "text": "Has Sara been on vacation lately?",
-          "answer": "No, she hasn't."
+          "answer": "No, she hasn't.",
+          "hint": "Compare Sara's recent travel experience with Lucy's."
         }
       ]
     },
@@ -18055,37 +18500,44 @@
         {
           "number": 1,
           "text": "Finally, we're ____.",
-          "answer": "on the same wavelength"
+          "answer": "on the same wavelength",
+          "hint": "Use an expression meaning sharing the same understanding or way of thinking."
         },
         {
           "number": 2,
           "text": "I'm not sure what to do about this. It's kind of a ____.",
-          "answer": "catch-22"
+          "answer": "catch-22",
+          "hint": "Name a dilemma in which each possible solution prevents the other."
         },
         {
           "number": 3,
           "text": "We need to ____ too many breaks!",
-          "answer": "clamp down on"
+          "answer": "clamp down on",
+          "hint": "Think of taking strict action to stop unwanted behavior."
         },
         {
           "number": 4,
           "text": "Let's fight back and ____.",
-          "answer": "stand our ground"
+          "answer": "stand our ground",
+          "hint": "Use an expression meaning to refuse to retreat or change your position."
         },
         {
           "number": 5,
           "text": "The ____ is that we can't afford it anymore.",
-          "answer": "bottom line"
+          "answer": "bottom line",
+          "hint": "Think of the essential fact that determines the final decision."
         },
         {
           "number": 6,
           "text": "That car costs a ____ but it's worth it.",
-          "answer": "pretty penny"
+          "answer": "pretty penny",
+          "hint": "Use an idiom meaning a large amount of money."
         },
         {
           "number": 7,
           "text": "My son is very good at ____.",
-          "answer": "pushing the boundaries"
+          "answer": "pushing the boundaries",
+          "hint": "Think of testing the limits of what is acceptable or allowed."
         }
       ]
     },
@@ -18106,42 +18558,50 @@
         {
           "number": 1,
           "text": "Let's ____. I told Tim we'd be there by 7:30.",
-          "answer": "get a move on"
+          "answer": "get a move on",
+          "hint": "Use an expression encouraging people to hurry and leave."
         },
         {
           "number": 2,
           "text": "Do you want to ____ on Saturday?",
-          "answer": "hang out"
+          "answer": "hang out",
+          "hint": "Think of spending relaxed, informal time together."
         },
         {
           "number": 3,
           "text": "Don't ____ about what I'm going to tell you but . . .",
-          "answer": "freak out"
+          "answer": "freak out",
+          "hint": "Use an expression meaning to panic or become extremely upset."
         },
         {
           "number": 4,
           "text": "I think you can ____ for a better offer.",
-          "answer": "hold out"
+          "answer": "hold out",
+          "hint": "Think of refusing to accept an offer while waiting for something better."
         },
         {
           "number": 5,
           "text": "Will you ____ dinner? You just have to stir it every few minutes.",
-          "answer": "keep an eye on"
+          "answer": "keep an eye on",
+          "hint": "Use an expression meaning to watch something carefully."
         },
         {
           "number": 6,
           "text": "Hey, ____. You're making this into a bigger deal than it is.",
-          "answer": "lighten up"
+          "answer": "lighten up",
+          "hint": "Use an expression telling someone to become less serious or tense."
         },
         {
           "number": 7,
           "text": "Don't ____! You only have one more semester left in your degree.",
-          "answer": "give up"
+          "answer": "give up",
+          "hint": "Think of stopping your effort because something seems too difficult."
         },
         {
           "number": 8,
           "text": "I don't think I'll ever ____ as long as I live in Vancouver.",
-          "answer": "get ahead"
+          "answer": "get ahead",
+          "hint": "Use an expression meaning to improve your financial or professional situation."
         }
       ],
       "wordBank": [
@@ -18173,32 +18633,38 @@
         {
           "number": 1,
           "text": "I'm not sure yet. I'll have to ____ for you.",
-          "answer": "look into it"
+          "answer": "look into it",
+          "hint": "Think of investigating a matter to find more information."
         },
         {
           "number": 2,
           "text": "Please keep your address ____.",
-          "answer": "up to date"
+          "answer": "up to date",
+          "hint": "Use an expression meaning current and reflecting the latest information."
         },
         {
           "number": 3,
           "text": "I'm kind of ____ about whether to go, or not.",
-          "answer": "ambivalent"
+          "answer": "ambivalent",
+          "hint": "Use an adjective meaning having mixed feelings about a choice."
         },
         {
           "number": 4,
           "text": "I don't think we need to ____ for this. There are lots of companies who can do it.",
-          "answer": "pay a premium"
+          "answer": "pay a premium",
+          "hint": "Think of spending extra money for a supposedly better service."
         },
         {
           "number": 5,
           "text": "Can you ____ with this?",
-          "answer": "lend me a hand"
+          "answer": "lend me a hand",
+          "hint": "Use an expression asking someone to help you with a task."
         },
         {
           "number": 6,
           "text": "We'll get ____ if we hire internally.",
-          "answer": "more bang for the buck"
+          "answer": "more bang for the buck",
+          "hint": "Use a value-for-money idiom meaning a greater benefit for the amount spent."
         }
       ]
     },
@@ -18217,42 +18683,50 @@
         {
           "number": 1,
           "text": "Are you sure you can't ____? It might be possible.",
-          "answer": "have your cake and eat it too"
+          "answer": "have your cake and eat it too",
+          "hint": "Use an idiom meaning to enjoy two benefits that usually cannot be combined."
         },
         {
           "number": 2,
           "text": "____ at this job. We'll need to fire him before his probation is up.",
-          "answer": "can't hack it"
+          "answer": "can't hack it",
+          "hint": "Use an informal expression meaning unable to cope with the demands of something."
         },
         {
           "number": 3,
           "text": "It's time to ____ and retire I think.",
-          "answer": "cash in your chips"
+          "answer": "cash in your chips",
+          "hint": "Use a gambling-related idiom meaning to stop working and take your accumulated gains."
         },
         {
           "number": 4,
           "text": "Don't ____, okay? It's not worth it. Go on vacation!",
-          "answer": "work yourself to death"
+          "answer": "work yourself to death",
+          "hint": "Think of doing so much labor that you seriously harm your health."
         },
         {
           "number": 5,
           "text": "I ____ but something is kind of off about that guy.",
-          "answer": "can't put my finger on it"
+          "answer": "can't put my finger on it",
+          "hint": "Use an expression meaning unable to identify exactly what seems wrong."
         },
         {
           "number": 6,
           "text": "I have no desire to climb the ____.",
-          "answer": "corporate ladder"
+          "answer": "corporate ladder",
+          "hint": "Name the metaphorical structure people climb as they rise within a company."
         },
         {
           "number": 7,
           "text": "My parents are quite ____ and I expect a big inheritance.",
-          "answer": "well off"
+          "answer": "well off",
+          "hint": "Use an expression meaning financially comfortable or wealthy."
         },
         {
           "number": 8,
           "text": "I'm so ____ from that big school project.",
-          "answer": "burnt out"
+          "answer": "burnt out",
+          "hint": "Describe someone exhausted by prolonged stress or overwork."
         }
       ]
     }
