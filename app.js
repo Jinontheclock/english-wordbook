@@ -31,7 +31,7 @@ function paint(){
  $('#count').textContent=`${page+1} / ${pages.length}`;
  $('#prev').disabled=!unit?page===0:page===0&&sectionIndex===0&&!answerMode&&question===0;
  $('#next').disabled=!unit?page===pages.length-1:false;
- if(!unit)$('#next').textContent='다음 →';else if(page<pages.length-1)$('#next').textContent='다음 →';else if(section().questions&&!answerMode){$('#next').textContent='정답 확인';$('#next').disabled=false}else $('#next').textContent=section().questions&&answerMode?(question<section().questions.length-1?'다음 문제 →':'목록으로'):(sectionIndex<unit.sections.length-1?'다음 단계 →':'목록으로');
+ if(!unit)$('#next').textContent='다음 →';else if(page<pages.length-1)$('#next').textContent='다음 →';else if(section().questions&&!answerMode){$('#next').textContent='다음 문제 →';$('#next').disabled=true}else $('#next').textContent=section().questions&&answerMode?(question<section().questions.length-1?'다음 문제 →':'목록으로'):(sectionIndex<unit.sections.length-1?'다음 단계 →':'목록으로');
  if(unit){saved.last={id:unit.id,sectionIndex,question,page};save()}
 }
 function home(){unit=null;page=0;document.body.classList.remove('typing');$('#source').textContent='구성 초안';$('#heading').innerHTML='<h1>단원 선택</h1><p class="meta">Making Waves · Idioms #1 발췌</p>';$('#sections').innerHTML='';$('#response').hidden=true;paginate()}
