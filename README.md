@@ -1,24 +1,10 @@
-# 영어 단어장
+# English wordbook — renewal prototype
 
-사진 72장의 대화와 표현으로 공부하는 모바일 단어장입니다.
+Fresh implementation using textbook photos in Desktop/영단어. Dark, minimal, fixed viewport; text is paginated rather than scrolled. No generated hints, contexts, translations, or exercises.
 
-- 단원별 대화 → 단어 리스트 → 직접 입력 퀴즈
-- 대화 73개, 교재 표현 모음 9개
-- 교재 단어·표현 417개와 별도 단어 목록이 없는 대화에서 고른 핵심 표현 88개
-- 발음 듣기: Free Dictionary API 녹음이 있으면 녹음 재생, 그 외에는 Web Speech API 기기 영어 합성음성
-- 보통/느리게 발음 속도, 오답 복습, 기기별 학습 기록
-- 기본 다크모드
+Prototype scope:
+- Making Waves, pp. 10–11: complete dialogue, 10 vocabulary entries, 10 original questions and printed answers (IMG_7713).
+- Idioms #1, pp. 22–23: Ahead of the pack; A lot on my plate; Can't make heads or tails of it. Original forms, meaning, origin, examples, and extra practice (IMG_7719).
+- The remaining photos have been surveyed for layout, but are not yet transcribed into this prototype.
 
-https://jinontheclock.github.io/english-wordbook/
-
-API 키나 빌드 과정이 필요하지 않습니다. main 브랜치 루트를 GitHub Pages로 배포합니다.
-사전 API 및 녹음 재생에는 인터넷이 필요합니다. 기기 음성은 브라우저와 설치된 영어 음성에 따라 달라집니다.
-녹음의 출처 및 라이선스는 단어 리스트의 '음성 출처'에서 확인할 수 있습니다.
-
-사진 추출 텍스트에 인식 오류가 남아 있을 수 있습니다. 학습 콘텐츠는 원본 교재에서 옮긴 것이며 별도의 오픈소스 라이선스를 부여하지 않습니다.
-
-## 교재 원본 퀴즈
-
-77개 세트, 474문항을 사진과 대조해 텍스트로 옮겼습니다. 교재의 문제 순서, 빈칸, 보기, 대화 이해 문제를 유지합니다. 한 번에 한 문항을 표시하며, 직접 입력 → 교재 정답 확인 → 다음 문제 순서로 풉니다. 대화 이해는 예시 답안을 비교해 직접 확인합니다. 답안, 마지막 문항 위치, 복습 표시를 기기에 저장합니다. 문제나 정답 사진은 사이트에 포함하지 않습니다.
-
-모든 퀴즈 문항 위에 영어로 된 상황 설명을 항상 표시합니다. 빈칸 문제에는 해당 문장을 말하게 된 구체적인 상황을, 대화 이해 문제에는 대화의 배경을 제공합니다. 단어의 정의, 동의어, 품사, 글자 수 등의 정답 힌트는 제공하지 않습니다. 상황 설명은 학습을 돕기 위해 별도로 작성한 내용이며 교재의 원문 문제와 답안은 유지합니다.
+Answers are shown on their own screen. Extra practice is open-ended and saves the learner's response without inventing an answer. Local storage uses a new key, preserving old browser records. Previous implementation is retained in Git history. No build step required; GitHub Pages serves the repository root.
