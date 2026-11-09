@@ -32,10 +32,20 @@ function input(action){const form=$('#response');form.hidden=false;form.innerHTM
  const field=$('#draft');field.oninput=()=>{saved.drafts[draftKey()]=field.value;save()};field.onfocus=()=>{document.body.classList.add('typing');resize()};field.onblur=()=>{document.body.classList.remove('typing');resize()};form.onsubmit=e=>{e.preventDefault();field.blur();if(section().questions&&!section().open)go({a:true,p:0});else{save();form.querySelector('button').textContent='저장됨'}};
 }
 function sheet(title,text){return `<div class="sheet">${title?`<h2 lang="en">${esc(title)}</h2>`:''}<p lang="en">${esc(text)}</p></div>`}
+function vocabularySheet(title,text,i){
+ const meaning=window.KOREAN?.[title];
+ return `<section class="sheet vocabulary"><div class="word-row"><h2 lang="en">${esc(title)}</h2>${meaning?`<button type="button" class="meaning-toggle" aria-expanded="false" aria-controls="meaning-${i}" aria-label="${esc(title)} 한국어 뜻 보기">한국어 뜻</button>`:''}</div><p lang="en">${esc(text)}</p>${meaning?`<p class="korean-meaning" id="meaning-${i}" lang="ko" hidden>${esc(meaning)}</p>`:''}</section>`;
+}
+$('#content').addEventListener('click',e=>{
+ const button=e.target.closest('.meaning-toggle');if(!button)return;
+ const expanded=button.getAttribute('aria-expanded')==='true';button.setAttribute('aria-expanded',String(!expanded));
+ document.getElementById(button.getAttribute('aria-controls')).hidden=expanded;
+ button.textContent=expanded?'한국어 뜻':'뜻 숨기기';
+});
 function paint(){
  const area=$('#content');
  if(!unit){area.innerHTML=book.map(u=>`<a class="entry" href="${esc(url({id:u.id,s:0,q:0,a:false,p:0}))}">${esc(u.title)}<small>${esc(u.group||'Dialogue · Vocabulary · Practice')} · p. ${esc(u.page)}</small></a>`).join('');$('footer').hidden=true;return}
- area.innerHTML=blocks.map(([title,text])=>sheet(title,text)).join('');$('footer').hidden=false;
+ area.innerHTML=blocks.map(([title,text],i)=>section().id==='vocabulary'?vocabularySheet(title,text,i):sheet(title,text)).join('');$('footer').hidden=false;
  const s=section();$('#count').textContent=s.questions?`${state.q+1} / ${s.questions.length}`:`${state.s+1} / ${unit.sections.length}`;
  $('#prev').disabled=false;$('#next').disabled=!!(s.questions&&!s.open&&!state.a);
  $('#next').textContent=s.questions&&state.q<s.questions.length-1?'다음 문제 →':state.s<unit.sections.length-1?'다음 단계 →':'목록으로';
