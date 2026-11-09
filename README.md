@@ -9,3 +9,5 @@ Korean glosses are supplemental study notes, written to match the textbook conte
 - https://www.collinsdictionary.com/us/dictionary/english/keener
 - https://dictionary.cambridge.org/dictionary/english/put-money-where-mouth-is
 - https://dictionary.cambridge.org/dictionary/english/clean-bill-of-health
+
+Progress tracking uses the existing browser-local storage key. Read sections can be checked manually; revealing a printed answer or saving an open response records the item as complete. Checks can be undone. The unit list shows completion counts, and resume links restore the last section/question and scroll offset. This data stays in the current browser and does not sync between devices.
