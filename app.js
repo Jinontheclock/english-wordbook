@@ -1,6 +1,6 @@
 'use strict';
 const $=s=>document.querySelector(s),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const book=window.BOOK,KEY='english-wordbook-renewal-v1';let saved={drafts:{},progress:{},positions:{},routes:{}};try{saved={...saved,...JSON.parse(localStorage.getItem(KEY)||'{}')}}catch{}
+const book=window.BOOK,KEY='english-wordbook-renewal-v1';let saved={drafts:{},progress:{},positions:{},routes:{},mcqChoices:{}};try{saved={...saved,...JSON.parse(localStorage.getItem(KEY)||'{}')}}catch{}
 let state={id:null,s:0,q:0,a:false,p:0},unit=null,blocks=[];
 const scrollPositions=new Map(Object.entries(saved.positions));let currentRoute="";
 function save(){try{localStorage.setItem(KEY,JSON.stringify(saved))}catch{}}
@@ -27,17 +27,31 @@ function readRoute(){
  state={id:unit?.id||null,s:Math.max(0,si),q:0,a:params.get('answer')==='1',p:n('page')};if(unit&&section().questions)state.q=Math.min(n('q'),section().questions.length-1);else state.a=false;if(unit&&section().open)state.a=false;
  currentRoute=url(state);if(location.hash!==currentRoute)history.replaceState(null,'',currentRoute);render();
  $('#content').scrollTop=scrollPositions.get(currentRoute)||0;
+ const feedback=$('#mcq-feedback');if(feedback&&state.a&&!scrollPositions.has(currentRoute)){const area=$('#content');area.scrollTop+=feedback.getBoundingClientRect().top-area.getBoundingClientRect().top-8;}
 }
 function render(){
- document.body.classList.remove('typing');const form=$('#response');form.hidden=true;form.innerHTML='';
+ document.body.classList.remove('typing');const form=$('#response');form.hidden=true;form.innerHTML='';form.className='';
  if(!unit){$('#source').textContent='';$('#heading').innerHTML='<h1>단원 선택</h1>';$('#sections').innerHTML='';document.title='영어 단어장';blocks=[];paint();return}
  document.title=unit.title+' · 영어 단어장';const s=section();$('#source').textContent=`p. ${unit.page}`;
  $('#heading').innerHTML=`<h1 lang="en">${esc(unit.title)}</h1><p class="meta">${s.questions?`${s.label} · ${s.numbers?.[state.q]||state.q+1} / ${s.numbers?.at(-1)||s.questions.length}`:esc(unit.group||s.label)}</p>`;
  $('#sections').innerHTML=unit.sections.length>3?`<label class=sr-only for=stage>학습 단계</label><select id=stage>${unit.sections.map((x,i)=>`<option value=${i} ${state.s===i?'selected':''}>${esc(x.label)}</option>`).join('')}</select>`:unit.sections.map((s,i)=>`<a href="${esc(url({...state,s:i,q:0,a:false,p:0}))}" aria-current="${state.s===i?'step':'false'}">${esc(s.label)}</a>`).join('');if($('#stage'))$('#stage').onchange=e=>go({s:Number(e.target.value),q:0,a:false,p:0});
+ if(s.id==='practice'&&window.PRACTICE_MCQ?.[unit.id]?.[state.q]){blocks=[];paint();renderMCQ();return}
  if(s.questions){const [prompt,answer]=s.questions[state.q];blocks=state.a?[[`Answers · ${s.numbers?.[state.q]||state.q+1}`,answer]]:[[`${s.label} · ${s.numbers?.[state.q]||state.q+1}`,prompt]];if(!state.a)input(s.open?'답 저장':'정답 확인')}
  else if(s.prompt){blocks=[['Extra practice',s.prompt]];input('답 저장')}
  else blocks=s.blocks;
  paint();
+}
+function renderMCQ(){
+ const item=window.PRACTICE_MCQ[unit.id][state.q],key=progressKey(),stored=saved.mcqChoices[key];
+ const selected=Number.isInteger(stored)&&stored>=0&&stored<4?stored:null;
+ const number=section().numbers?.[state.q]||state.q+1;
+ const sentence=item.prompt.split('____').map(esc).join(`<mark class="focus-term">${esc(item.term)}</mark>`);
+ const right=selected===item.correct;
+ $('#content').innerHTML=`<div class="mcq-question"><p class="mcq-instruction">강조된 표현이 이 문장에서 뜻하는 것은?</p><p class="mcq-sentence" lang="en">${sentence}</p><div class="choices" role="radiogroup" aria-label="Practice ${number} 보기">${item.options.map((option,i)=>`<button type="button" role="radio" class="choice ${selected===i?'selected':''} ${state.a&&i===item.correct?'correct':''} ${state.a&&selected===i&&i!==item.correct?'incorrect':''}" aria-checked="${selected===i}" data-choice="${i}" ${state.a?'disabled':''}><span class="choice-letter" aria-hidden="true">${'ABCD'[i]}</span><span>${esc(option)}</span>${state.a&&i===item.correct?'<small>정답</small>':state.a&&selected===i?'<small>내 선택</small>':''}</button>`).join('')}</div>${state.a?`<section id="mcq-feedback" class="mcq-feedback" aria-live="polite"><h2>${selected===null?'정답':right?'정답입니다':'다시 확인해 보세요'}</h2><p><strong>${'ABCD'[item.correct]}.</strong> ${esc(item.meaning)}</p>${selected!==null&&!right?`<p class="chosen-explanation">선택한 “${esc(item.options[selected])}”는 이 표현의 의미와 다릅니다.</p>`:''}${item.definition?`<p class="mcq-definition" lang="en">${esc(item.term)}: ${esc(item.definition)}</p>`:''}${item.note?`<p class="mcq-note">${esc(item.note)}</p>`:''}<button id="mcq-retry" type="button">다시 풀기</button></section>`:''}</div>`;
+ if(state.a){$('#mcq-retry').onclick=()=>{delete saved.mcqChoices[key];save();const questionRoute=url({...state,a:false});scrollPositions.delete(questionRoute);delete saved.positions[questionRoute];go({a:false})};return}
+ const form=$('#response');form.hidden=false;form.className='mcq-form';form.innerHTML=`<button type="submit" ${selected===null?'disabled':''}>정답 확인</button>`;
+ $('#content').querySelectorAll('[data-choice]').forEach(button=>{button.onclick=()=>{const index=Number(button.dataset.choice);saved.mcqChoices[key]=index;save();$('#content').querySelectorAll('[data-choice]').forEach(other=>{const checked=Number(other.dataset.choice)===index;other.setAttribute('aria-checked',String(checked));other.classList.toggle('selected',checked)});form.querySelector('button').disabled=false}});
+ form.onsubmit=e=>{e.preventDefault();if(!Number.isInteger(saved.mcqChoices[key]))return;markDone();go({a:true})};
 }
 function input(action){const form=$('#response');form.hidden=false;form.innerHTML=`<label for="draft">내 답</label><input id="draft" autocomplete="off" autocapitalize="none" spellcheck="false" value="${esc(saved.drafts[draftKey()]||'')}"><button type="submit">${action}</button>`;
  const field=$('#draft');field.oninput=()=>{saved.drafts[draftKey()]=field.value;save()};field.onfocus=()=>{document.body.classList.add('typing');resize()};field.onblur=()=>{document.body.classList.remove('typing');resize()};form.onsubmit=e=>{e.preventDefault();field.blur();if(section().questions&&!section().open){markDone();go({a:true,p:0})}else{markDone();form.querySelector('button').textContent='저장됨'}};
