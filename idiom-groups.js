@@ -14,7 +14,8 @@
    progressKeys:members.map(u=>`${u.id}/${stage}/read`),
    idioms:members.map(u=>({id:u.id,title:u.title,page:u.page,blocks:u.sections[si].blocks,key:`${u.id}/${stage}/read`}))
   }));
-  sections.push({id:'extra',label:'Extra practice',open:true,
+  const quiz=members.map(u=>window.IDIOM_MCQ?.[u.id]),hasQuiz=quiz.every(Boolean);
+  sections.push({id:'extra',label:hasQuiz?'Quiz':'Extra practice',open:!hasQuiz,mcq:hasQuiz?quiz:null,
    questions:members.map(u=>[u.sections[2].prompt,'']),
    titles:members.map(u=>u.title),pages:members.map(u=>u.page),
    questionProgressKeys:members.map(u=>`${u.id}/extra/read`),
