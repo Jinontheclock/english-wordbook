@@ -108,7 +108,7 @@ function paint(){
  const s=section();$('#count').textContent=s.questions?`${state.q+1} / ${s.questions.length}`:`${state.s+1} / ${unit.sections.length}`;
  $('#prev').disabled=false;$('#next').disabled=!!(s.questions&&!s.open&&!state.a);
  $('#next').textContent=s.questions&&state.q<s.questions.length-1?'다음 문제 →':state.s<unit.sections.length-1?'다음 단계 →':'목록으로';
- saved.last=location.hash;saved.routes[unit.id]=location.hash;save();updateProgress();
+ saved.last=location.hash;saved.routes[unit.id]=location.hash;save();updateProgress();if(s.id==='vocabulary')window.WORDBOOK_AUDIO?.prepare(unit.id);
 }
 $('#prev').onclick=()=>{if(!unit)return;if(state.a)return go({a:false,p:0});if(section().questions&&state.q>0)return go({q:state.q-1,a:!section().open,p:0});if(state.s>0){const s=unit.sections[state.s-1];return go({s:state.s-1,q:s.questions?s.questions.length-1:0,a:!!s.questions&&!s.open,p:0})}go({id:null,s:0,q:0,a:false,p:0})};
 $('#next').onclick=()=>{if(!unit)return;const s=section();if(s.questions&&!s.open&&!state.a)return;if(s.questions&&state.q<s.questions.length-1)return go({q:state.q+1,a:false,p:0});if(state.s<unit.sections.length-1)return go({s:state.s+1,q:0,a:false,p:0});go({id:null,s:0,q:0,a:false,p:0})};
