@@ -48,7 +48,7 @@ function migrateIdiomRoutes(){
 }
 function go(changes){const next={...state,item:null,...changes},hash=url(next);if(location.hash===hash)readRoute();else location.hash=hash}
 function readRoute(){
- clearTimeout(scrollTimer);rememberScroll();state=routeState(location.hash);unit=book.find(u=>u.id===state.id)||null;
+ window.WORDBOOK_AUDIO?.stop();clearTimeout(scrollTimer);rememberScroll();state=routeState(location.hash);unit=book.find(u=>u.id===state.id)||null;
  currentRoute=url(state);if(location.hash!==currentRoute)history.replaceState(null,'',currentRoute);render();
  const area=$('#content');area.scrollTop=scrollPositions.get(currentRoute)||0;
  const item=state.item&&document.getElementById('idiom-'+state.item);
@@ -85,7 +85,7 @@ function input(action){const form=$('#response');form.hidden=false;form.innerHTM
 function sheet(title,text){return `<div class="sheet">${title?`<h2 lang="en">${esc(title)}</h2>`:''}<p lang="en">${esc(text)}</p></div>`}
 function vocabularySheet(title,text,i){
  const meaning=window.KOREAN?.[title];
- return `<section class="sheet vocabulary"><div class="word-row"><h2 lang="en">${esc(title)}</h2>${meaning?`<button type="button" class="meaning-toggle" aria-expanded="false" aria-controls="meaning-${i}" aria-label="${esc(title)} 한국어 뜻 보기">한국어 뜻</button>`:''}</div><p lang="en">${esc(text)}</p>${meaning?`<p class="korean-meaning" id="meaning-${i}" lang="ko" hidden>${esc(meaning)}</p>`:''}</section>`;
+ return `<section class="sheet vocabulary"><div class="word-row"><h2 lang="en">${esc(title)}</h2><div class="word-actions">${meaning?`<button type="button" class="meaning-toggle" aria-expanded="false" aria-controls="meaning-${i}" aria-label="${esc(title)} 한국어 뜻 보기">한국어 뜻</button>`:''}<button type="button" class="pronunciation" data-pronounce="${esc(title)}" aria-pressed="false" aria-label="${esc(title)} 영어 발음 듣기">발음</button></div></div><p lang="en">${esc(text)}</p>${meaning?`<p class="korean-meaning" id="meaning-${i}" lang="ko" hidden>${esc(meaning)}</p>`:''}<p class="speech-status" role="status" hidden></p></section>`;
 }
 $('#content').addEventListener('click',e=>{
  const button=e.target.closest('.meaning-toggle');if(!button)return;
